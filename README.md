@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/IshankAggarwal09/DSA/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/IshankAggarwal09/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/IshankAggarwal09/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/IshankAggarwal09/DSA/tree/master/0268-missing-number) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/IshankAggarwal09/DSA/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/IshankAggarwal09/DSA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
