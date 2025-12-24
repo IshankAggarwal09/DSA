@@ -4,14 +4,13 @@ class Solution {
         ans[0] = ans[1] = -1;
         HashMap<Integer, Integer> map = new HashMap<>();
         for (int i=0; i<nums.length; i++) {
-            int num = nums[i];
-            int moreNeeded = target - num;
+            int moreNeeded = target - nums[i];
             if (map.containsKey(moreNeeded)) {
                 ans[0] = map.get(moreNeeded);
                 ans[1] = i;
                 return ans;
             }
-            map.put(num, i);
+            map.put(nums[i], i);
         }
         return ans;
     }
