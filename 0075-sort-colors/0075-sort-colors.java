@@ -3,12 +3,12 @@ class Solution {
         int n = arr.length;
         int low = 0;
         int mid = 0;
-        int high = n - 1;
-        while(mid <= high) {
+        int high = n-1;
+        while (mid <= high) {
             if (arr[mid] == 0) {
-                int temp = arr[mid];
-                arr[mid] = arr[low];
-                arr[low] = temp;
+                int temp = arr[low];
+                arr[low] = arr[mid];
+                arr[mid] = temp;
                 low++;
                 mid++;
             }
@@ -16,9 +16,9 @@ class Solution {
                 mid++;
             }
             else {
-                int temp = arr[mid];
-                arr[mid] = arr[high];
-                arr[high] = temp;
+                int temp = arr[high];
+                arr[high] = arr[mid];
+                arr[mid] = temp;
                 high--;
             }
         }
