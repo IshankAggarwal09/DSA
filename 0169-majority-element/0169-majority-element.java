@@ -8,7 +8,7 @@ class Solution {
                 count = 1;
                 el = v[i];
             }
-            else if (el == v[i]) {
+            else if(el == v[i]) {
                 count++;
             }
             else {
