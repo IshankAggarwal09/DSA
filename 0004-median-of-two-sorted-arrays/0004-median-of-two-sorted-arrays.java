@@ -18,9 +18,8 @@ class Solution {
         while (j < m) {
             mergedArr[k++] = nums2[j++];
         }
-        int start = 0;
         int end = mergedArr.length-1;
-        int mid = start + (end-start)/2;
+        int mid = end/2;
         if (end % 2 == 0) {
             return (double)(mergedArr[mid]);
         }
