@@ -148,8 +148,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/IshankAggarwal09/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [1021-remove-outermost-parentheses](https://github.com/IshankAggarwal09/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/IshankAggarwal09/DSA/tree/master/0410-split-array-largest-sum) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/IshankAggarwal09/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
