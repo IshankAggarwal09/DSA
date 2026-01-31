@@ -5,10 +5,10 @@ class Solution {
             return;
         }
         if (l < n) {
-            helper(n, l+1, r, s+"(", ans);
+            helper(n, l+1, r, s+'(', ans);
         }
         if (r < l) {
-            helper(n, l, r+1, s+")", ans);
+            helper(n, l, r+1, s+')', ans);
         }
     }
     public List<String> generateParenthesis(int n) {
