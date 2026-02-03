@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/IshankAggarwal09/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/IshankAggarwal09/DSA/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/IshankAggarwal09/DSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/IshankAggarwal09/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0090-subsets-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/IshankAggarwal09/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/IshankAggarwal09/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/IshankAggarwal09/DSA/tree/master/0079-word-search) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/IshankAggarwal09/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/IshankAggarwal09/DSA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/IshankAggarwal09/DSA/tree/master/0038-count-and-say) |
+| [0079-word-search](https://github.com/IshankAggarwal09/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/IshankAggarwal09/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/IshankAggarwal09/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/IshankAggarwal09/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/IshankAggarwal09/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/IshankAggarwal09/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/IshankAggarwal09/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/IshankAggarwal09/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/IshankAggarwal09/DSA/tree/master/0216-combination-sum-iii) |
@@ -226,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/IshankAggarwal09/DSA/tree/master/0148-sort-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/IshankAggarwal09/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
