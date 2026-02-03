@@ -14,7 +14,14 @@ class Solution {
         }
         for (int i=0; i<row; i++) {
             for (int j=0; j<col; j++) {
-                if (rowZero[i] || colZero[j]) {
+                if (rowZero[i]) {
+                    matrix[i][j] = 0;
+                }
+            }
+        }
+        for (int j=0; j<col; j++) {
+            for (int i=0; i<row; i++) {
+                if (colZero[j]) {
                     matrix[i][j] = 0;
                 }
             }
