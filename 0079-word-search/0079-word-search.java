@@ -1,30 +1,26 @@
 class Solution {
-    private boolean helper(char[][] board, String word, int row, int col, int index, boolean[][] visited) {
-        if (index == word.length()) {
+    private boolean helper(char[][] board, String word, int i, int j, int idx) {
+        if (idx == word.length()) {
             return true;
         }
-        if (row < 0 || row >= board.length || col < 0 || col >= board[0].length ||
-            visited[row][col] || board[row][col] != word.charAt(index)) {
+        if (i<0 || j<0 || i>=board.length || j>=board[0].length || board[i][j] != word.charAt(idx)) {
             return false;
         }
-        visited[row][col] = true;
-        boolean found = helper(board, word, row - 1, col, index + 1, visited) ||
-                        helper(board, word, row + 1, col, index + 1, visited) ||
-                        helper(board, word, row, col - 1, index + 1, visited) ||
-                        helper(board, word, row, col + 1, index + 1, visited);
-
-        visited[row][col] = false; 
+        char temp = board[i][j];
+        board[i][j] = '#';
+        boolean found = helper(board, word, i+1, j, idx+1) ||
+                        helper(board, word, i-1, j, idx+1) ||
+                        helper(board, word, i, j+1, idx+1) ||
+                        helper(board, word, i, j-1, idx+1);
+        board[i][j] = temp;
         return found;
     }
     public boolean exist(char[][] board, String word) {
         int rows = board.length, cols = board[0].length;
-        boolean[][] visited = new boolean[rows][cols];
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
-                if (board[i][j] == word.charAt(0)) {
-                    if (helper(board, word, i, j, 0, visited)) {
-                        return true;
-                    }
+        for (int i=0; i<rows; i++) {
+            for (int j=0; j<cols; j++) {
+                if (helper(board, word, i, j, 0)) {
+                    return true;
                 }
             }
         }
