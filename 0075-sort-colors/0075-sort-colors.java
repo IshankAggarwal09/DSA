@@ -6,9 +6,9 @@ class Solution {
         int high = n-1;
         while (mid <= high) {
             if (arr[mid] == 0) {
-                int temp = arr[low];
-                arr[low] = arr[mid];
-                arr[mid] = temp;
+                int temp = arr[mid];
+                arr[mid] = arr[low];
+                arr[low] = temp;
                 low++;
                 mid++;
             }
@@ -16,9 +16,9 @@ class Solution {
                 mid++;
             }
             else {
-                int temp = arr[high];
-                arr[high] = arr[mid];
-                arr[mid] = temp;
+                int temp = arr[mid];
+                arr[mid] = arr[high];
+                arr[high] = temp;
                 high--;
             }
         }
