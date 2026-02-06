@@ -21,7 +21,7 @@ class Solution {
             reverse(nums, 0, n-1);
             return;
         }
-        for (int i=n-1; i>=idx; i--) {
+        for (int i=n-1; i>idx; i--) {
             if (nums[i] > nums[idx]) {
                 int temp = nums[i];
                 nums[i] = nums[idx];
