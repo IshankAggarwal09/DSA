@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/IshankAggarwal09/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/IshankAggarwal09/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/IshankAggarwal09/DSA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/IshankAggarwal09/DSA/tree/master/0342-power-of-four) |
 | [1903-largest-odd-number-in-string](https://github.com/IshankAggarwal09/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/IshankAggarwal09/DSA/tree/master/1922-count-good-numbers) |
 ## Two Pointers
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/IshankAggarwal09/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/IshankAggarwal09/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/IshankAggarwal09/DSA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/IshankAggarwal09/DSA/tree/master/0342-power-of-four) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/IshankAggarwal09/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/IshankAggarwal09/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/IshankAggarwal09/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/IshankAggarwal09/DSA/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/IshankAggarwal09/DSA/tree/master/0342-power-of-four) |
 | [1922-count-good-numbers](https://github.com/IshankAggarwal09/DSA/tree/master/1922-count-good-numbers) |
 ## String
 |  |
