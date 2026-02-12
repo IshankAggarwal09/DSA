@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/IshankAggarwal09/DSA/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/IshankAggarwal09/DSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0229-majority-element-ii) |
+| [0260-single-number-iii](https://github.com/IshankAggarwal09/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/IshankAggarwal09/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/IshankAggarwal09/DSA/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/IshankAggarwal09/DSA/tree/master/0410-split-array-largest-sum) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/IshankAggarwal09/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/IshankAggarwal09/DSA/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/IshankAggarwal09/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/IshankAggarwal09/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/IshankAggarwal09/DSA/tree/master/0342-power-of-four) |
 | [0861-score-after-flipping-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0861-score-after-flipping-matrix) |
