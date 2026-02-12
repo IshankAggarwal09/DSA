@@ -27,16 +27,12 @@ class Solution {
             }
         }
         int sum = 0;
-        int pow = 1;
-        for (int j=n-1; j>=0; j--) {
-            int ones = 0;
-            for (int i=0; i<m; i++) {
-                if (grid[i][j] == 1) {
-                    ones++;
-                }
+        for (int i=0; i<m; i++) {
+            int pow = 1;
+            for (int j=n-1; j>=0; j--) {
+                sum += grid[i][j] * pow;
+                pow *= 2;
             }
-            sum += pow * ones;
-            pow *= 2;
         }
         return sum;
     }
