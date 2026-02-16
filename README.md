@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/IshankAggarwal09/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/IshankAggarwal09/DSA/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/IshankAggarwal09/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/IshankAggarwal09/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/IshankAggarwal09/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/IshankAggarwal09/DSA/tree/master/0342-power-of-four) |
 | [1922-count-good-numbers](https://github.com/IshankAggarwal09/DSA/tree/master/1922-count-good-numbers) |
+| [2487-remove-nodes-from-linked-list](https://github.com/IshankAggarwal09/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## String
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/IshankAggarwal09/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/IshankAggarwal09/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/IshankAggarwal09/DSA/tree/master/2000-reverse-prefix-of-word) |
+| [2487-remove-nodes-from-linked-list](https://github.com/IshankAggarwal09/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -281,4 +284,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/IshankAggarwal09/DSA/tree/master/0496-next-greater-element-i) |
+| [2487-remove-nodes-from-linked-list](https://github.com/IshankAggarwal09/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
