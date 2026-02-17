@@ -5,12 +5,12 @@ class Solution {
             int[] freq = new int[26];
             for (int j=i; j<s.length(); j++) {
                 freq[s.charAt(j) - 'a']++;
-                int maxFreq = Integer.MIN_VALUE;
                 int minFreq = Integer.MAX_VALUE;
-                for (int f=0; f<26; f++) {
-                    if (freq[f] > 0) {
-                        maxFreq = Math.max(maxFreq, freq[f]);
-                        minFreq = Math.min(minFreq, freq[f]);
+                int maxFreq = Integer.MIN_VALUE;
+                for (int k=0; k<26; k++) {
+                    if (freq[k] > 0) {
+                        minFreq = Math.min(freq[k], minFreq);
+                        maxFreq = Math.max(freq[k], maxFreq);
                     }
                 }
                 count += maxFreq - minFreq;
