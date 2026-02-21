@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/IshankAggarwal09/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/IshankAggarwal09/DSA/tree/master/0682-baseball-game) |
+| [0901-online-stock-span](https://github.com/IshankAggarwal09/DSA/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/IshankAggarwal09/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/IshankAggarwal09/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/IshankAggarwal09/DSA/tree/master/2000-reverse-prefix-of-word) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/IshankAggarwal09/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0901-online-stock-span](https://github.com/IshankAggarwal09/DSA/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -287,5 +289,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/IshankAggarwal09/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/IshankAggarwal09/DSA/tree/master/0901-online-stock-span) |
 | [2487-remove-nodes-from-linked-list](https://github.com/IshankAggarwal09/DSA/tree/master/2487-remove-nodes-from-linked-list) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/IshankAggarwal09/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
