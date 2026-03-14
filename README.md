@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/IshankAggarwal09/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/IshankAggarwal09/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/IshankAggarwal09/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/IshankAggarwal09/DSA/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/IshankAggarwal09/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/IshankAggarwal09/DSA/tree/master/0033-search-in-rotated-sorted-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/IshankAggarwal09/DSA/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/IshankAggarwal09/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/IshankAggarwal09/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/IshankAggarwal09/DSA/tree/master/0075-sort-colors) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/IshankAggarwal09/DSA/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/IshankAggarwal09/DSA/tree/master/0410-split-array-largest-sum) |
 | [0861-score-after-flipping-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0861-score-after-flipping-matrix) |
 | [1903-largest-odd-number-in-string](https://github.com/IshankAggarwal09/DSA/tree/master/1903-largest-odd-number-in-string) |
