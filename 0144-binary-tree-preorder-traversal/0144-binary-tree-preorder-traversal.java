@@ -19,6 +19,7 @@ class Solution {
         preorder(root, list);
         return list;
     }
+
     private void preorder(TreeNode node, List<Integer> ans) {
         if (node == null) {
             return;
