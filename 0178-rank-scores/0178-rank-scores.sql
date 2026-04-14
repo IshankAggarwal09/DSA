@@ -1,4 +1,4 @@
-SELECT s1.score, COUNT(DISTINCT s2.score) AS `rank`
+SELECT s1.score, COUNT(DISTINCT s2.score) AS "rank"
 FROM Scores s1
 JOIN Scores s2
 ON s1.score <= s2.score
