@@ -374,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/IshankAggarwal09/DSA/tree/master/0204-count-primes) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/IshankAggarwal09/DSA/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
