@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/IshankAggarwal09/DSA/tree/master/0704-binary-search) |
 | [0861-score-after-flipping-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0861-score-after-flipping-matrix) |
 | [0875-koko-eating-bananas](https://github.com/IshankAggarwal09/DSA/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/IshankAggarwal09/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/IshankAggarwal09/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/IshankAggarwal09/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/IshankAggarwal09/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/IshankAggarwal09/DSA/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/IshankAggarwal09/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/IshankAggarwal09/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/IshankAggarwal09/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/IshankAggarwal09/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/IshankAggarwal09/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/IshankAggarwal09/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/IshankAggarwal09/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/IshankAggarwal09/DSA/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/IshankAggarwal09/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
