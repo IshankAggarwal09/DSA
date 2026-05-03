@@ -4,13 +4,13 @@ class Solution {
         if (n <= 2) {
             return n;
         }
-        int j = 2;
-        for (int i=2; i<n; i++) {
-            if (nums[i] != nums[j-2]) {
-                nums[j] = nums[i];
-                j++;
+        int i = 2;
+        for (int j=2; j<n; j++) {
+            if (nums[j] != nums[i-2]) {
+                nums[i] = nums[j];
+                i++;
             }
         }
-        return j;
+        return i;
     }
 }
