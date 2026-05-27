@@ -9,7 +9,7 @@ class Solution {
         int start = maxWeight;
         int end = totalWeight;
         while (start < end) {
-            int mid = start + (end-start)/2;
+            int mid = start + (end - start) / 2;
             int daysNeeded = 1;
             int currWeight = 0;
             for (int weight : weights) {
