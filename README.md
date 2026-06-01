@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/IshankAggarwal09/DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/IshankAggarwal09/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/IshankAggarwal09/DSA/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/IshankAggarwal09/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/IshankAggarwal09/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/IshankAggarwal09/DSA/tree/master/0268-missing-number) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/IshankAggarwal09/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/IshankAggarwal09/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/IshankAggarwal09/DSA/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/IshankAggarwal09/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/IshankAggarwal09/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/IshankAggarwal09/DSA/tree/master/0268-missing-number) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/IshankAggarwal09/DSA/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/IshankAggarwal09/DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/IshankAggarwal09/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/IshankAggarwal09/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/IshankAggarwal09/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/IshankAggarwal09/DSA/tree/master/0268-missing-number) |
