@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/IshankAggarwal09/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/IshankAggarwal09/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/IshankAggarwal09/DSA/tree/master/0283-move-zeroes) |
+| [0304-range-sum-query-2d-immutable](https://github.com/IshankAggarwal09/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/IshankAggarwal09/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/IshankAggarwal09/DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/IshankAggarwal09/DSA/tree/master/0485-max-consecutive-ones) |
@@ -220,11 +221,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/IshankAggarwal09/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/IshankAggarwal09/DSA/tree/master/0079-word-search) |
+| [0304-range-sum-query-2d-immutable](https://github.com/IshankAggarwal09/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0861-score-after-flipping-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0861-score-after-flipping-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/IshankAggarwal09/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0304-range-sum-query-2d-immutable](https://github.com/IshankAggarwal09/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/IshankAggarwal09/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/IshankAggarwal09/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/IshankAggarwal09/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0304-range-sum-query-2d-immutable](https://github.com/IshankAggarwal09/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0901-online-stock-span](https://github.com/IshankAggarwal09/DSA/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
