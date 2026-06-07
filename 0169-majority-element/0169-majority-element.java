@@ -1,29 +1,19 @@
 class Solution {
-    public int majorityElement(int[] v) {
-        int n = v.length;
+    public int majorityElement(int[] nums) {
+        int candidate = 0;
         int count = 0;
-        int el = 0;
-        for (int i=0; i<n; i++) {
+        for (int num : nums) {
             if (count == 0) {
+                candidate = num;
                 count = 1;
-                el = v[i];
             }
-            else if(el == v[i]) {
+            else if (candidate == num) {
                 count++;
             }
             else {
                 count--;
             }
         }
-        int count1 = 0;
-        for (int i=0; i<n; i++) {
-            if (el == v[i]) {
-                count1++;
-            }
-        }
-        if (count1 > n/2) {
-            return el;
-        }
-        return -1;
+        return candidate;
     }
 }
