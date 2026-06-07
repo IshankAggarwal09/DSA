@@ -9,7 +9,7 @@ class Solution {
                 }
                 String rowKey = num + " in row " + row;
                 String colKey = num + " in col " + col;
-                String boxKey = num + " in box " + (row/3) + "-" + (col/3);
+                String boxKey = num + " in box " + (row / 3) + " - " + (col / 3);
                 if (set.contains(rowKey) || set.contains(colKey) || set.contains(boxKey)) {
                     return false;
                 }
