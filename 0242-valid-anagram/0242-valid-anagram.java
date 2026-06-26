@@ -3,16 +3,17 @@ class Solution {
         if (s.length() != t.length()) {
             return false;
         }
-        int[] count = new int[26];
-        for (int i=0; i<s.length(); i++) {
-            count[s.charAt(i) - 'a']++;
-            count[t.charAt(i) - 'a']--;
+        int[] count1 = new int[26];
+        int[] count2 = new int[26];
+        for (char ch : s.toCharArray()) {
+            count1[ch - 'a']++;
         }
-        for (int num : count) {
-            if (num != 0) {
-                return false;
-            }
+        for (char ch : t.toCharArray()) {
+            count2[ch - 'a']++;
         }
-        return true;
+        if (Arrays.equals(count1, count2)) {
+            return true;
+        }
+        return false;
     }
 }
