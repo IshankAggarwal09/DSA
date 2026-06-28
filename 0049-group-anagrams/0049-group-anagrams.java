@@ -6,8 +6,8 @@ class Solution {
             Arrays.sort(c);
             String sortedWord = new String(c);
             if (!map.containsKey(sortedWord)) {
-                map.put(sortedWord, new ArrayList<>());
-            }
+                map.put(sortedWord, new ArrayList<>());   
+            }   
             map.get(sortedWord).add(word);
         }
         return new ArrayList<>(map.values());
