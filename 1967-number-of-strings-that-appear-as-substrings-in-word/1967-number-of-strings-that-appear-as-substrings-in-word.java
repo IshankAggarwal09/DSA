@@ -1,11 +1,12 @@
 class Solution {
     public int numOfStrings(String[] patterns, String word) {
-        int ans = 0;
-        for (String s : patterns) {
-            if (word.contains(s)) {
-                ans++;
+        int n = patterns.length;
+        int count = 0;
+        for(int i=0; i<n; i++) {
+            if(word.contains(patterns[i])) {
+                count++;
             }
         }
-        return ans;
+        return count;
     }
 }
