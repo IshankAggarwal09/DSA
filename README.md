@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/IshankAggarwal09/DSA/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/IshankAggarwal09/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/IshankAggarwal09/DSA/tree/master/0706-design-hashmap) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/IshankAggarwal09/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/IshankAggarwal09/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/IshankAggarwal09/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/IshankAggarwal09/DSA/tree/master/0567-permutation-in-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/IshankAggarwal09/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/IshankAggarwal09/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Trie
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/IshankAggarwal09/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/IshankAggarwal09/DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/IshankAggarwal09/DSA/tree/master/0658-find-k-closest-elements) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/IshankAggarwal09/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
 | ------- |
