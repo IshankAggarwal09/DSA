@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/IshankAggarwal09/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/IshankAggarwal09/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/IshankAggarwal09/DSA/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/IshankAggarwal09/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/IshankAggarwal09/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/IshankAggarwal09/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/IshankAggarwal09/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -224,11 +225,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/IshankAggarwal09/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0394-decode-string](https://github.com/IshankAggarwal09/DSA/tree/master/0394-decode-string) |
 | [0853-car-fleet](https://github.com/IshankAggarwal09/DSA/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/IshankAggarwal09/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0853-car-fleet](https://github.com/IshankAggarwal09/DSA/tree/master/0853-car-fleet) |
 ## Recursion
 |  |
