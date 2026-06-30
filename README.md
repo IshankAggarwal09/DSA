@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/IshankAggarwal09/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/IshankAggarwal09/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/IshankAggarwal09/DSA/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/IshankAggarwal09/DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/IshankAggarwal09/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/IshankAggarwal09/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -101,11 +102,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/IshankAggarwal09/DSA/tree/master/0146-lru-cache) |
 | [0705-design-hashset](https://github.com/IshankAggarwal09/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/IshankAggarwal09/DSA/tree/master/0706-design-hashmap) |
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/IshankAggarwal09/DSA/tree/master/0146-lru-cache) |
 | [0304-range-sum-query-2d-immutable](https://github.com/IshankAggarwal09/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/IshankAggarwal09/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/IshankAggarwal09/DSA/tree/master/0706-design-hashmap) |
@@ -190,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/IshankAggarwal09/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/IshankAggarwal09/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
