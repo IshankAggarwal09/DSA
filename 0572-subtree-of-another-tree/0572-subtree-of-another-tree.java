@@ -14,19 +14,28 @@
  * }
  */
 class Solution {
-    public String preOrderTraversal(TreeNode node) {
-        if (node == null) {
-            return "null";
+    public boolean isIdentical (TreeNode root, TreeNode subRoot) {
+        if (root == null && subRoot == null) {
+            return true;
         }
-        StringBuilder sb = new StringBuilder("^");
-        sb.append(node.val);
-        sb.append(preOrderTraversal(node.left));
-        sb.append(preOrderTraversal(node.right));
-        return sb.toString();
+        if (root == null || subRoot == null) {
+            return false;
+        }
+        return root.val == subRoot.val && isIdentical(root.left, subRoot.left) && isIdentical(root.right, subRoot.right);
     }
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
-        String fullTree = preOrderTraversal(root);
-        String subTree = preOrderTraversal(subRoot);
-        return (fullTree.contains(subTree));
+        if (root == null && subRoot == null) {
+            return true;
+        }
+        if (root == null || subRoot == null) {
+            return false;
+        }
+        if (root.val == subRoot.val && isIdentical(root, subRoot)) {
+            return true;
+        }
+        if (isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot)) {
+            return true;
+        }
+        return false;
     }
 }
