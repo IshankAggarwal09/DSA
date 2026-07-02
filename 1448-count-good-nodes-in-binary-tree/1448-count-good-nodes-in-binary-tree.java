@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    public int helper(TreeNode root, int ans, int currMax) {
+    public int helper(TreeNode root, int currMax) {
         if (root == null) {
             return 0;
         }
@@ -23,11 +23,11 @@ class Solution {
             rootAnswer = 1;
             currMax = root.val;
         }
-        int lans = helper(root.left, ans, currMax);
-        int rans = helper(root.right, ans, currMax);
+        int lans = helper(root.left, currMax);
+        int rans = helper(root.right, currMax);
         return lans + rans + rootAnswer;
     }
     public int goodNodes(TreeNode root) {
-        return helper(root, 0, Integer.MIN_VALUE);
+        return helper(root, Integer.MIN_VALUE);
     }
 }
