@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/IshankAggarwal09/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/IshankAggarwal09/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/IshankAggarwal09/DSA/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/IshankAggarwal09/DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/IshankAggarwal09/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/IshankAggarwal09/DSA/tree/master/0076-minimum-window-substring) |
 | [0168-excel-sheet-column-title](https://github.com/IshankAggarwal09/DSA/tree/master/0168-excel-sheet-column-title) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/IshankAggarwal09/DSA/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/IshankAggarwal09/DSA/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/IshankAggarwal09/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/IshankAggarwal09/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/IshankAggarwal09/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/IshankAggarwal09/DSA/tree/master/0066-plus-one) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/IshankAggarwal09/DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
