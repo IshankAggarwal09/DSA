@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/IshankAggarwal09/DSA/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/IshankAggarwal09/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/IshankAggarwal09/DSA/tree/master/0706-design-hashmap) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/IshankAggarwal09/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -336,4 +337,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/IshankAggarwal09/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/IshankAggarwal09/DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/IshankAggarwal09/DSA/tree/master/0371-sum-of-two-integers) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/IshankAggarwal09/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/IshankAggarwal09/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
