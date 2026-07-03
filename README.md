@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/IshankAggarwal09/DSA/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/IshankAggarwal09/DSA/tree/master/0394-decode-string) |
 ## String Matching
 |  |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/IshankAggarwal09/DSA/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/IshankAggarwal09/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/IshankAggarwal09/DSA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/IshankAggarwal09/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/IshankAggarwal09/DSA/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/IshankAggarwal09/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/IshankAggarwal09/DSA/tree/master/0202-happy-number) |
