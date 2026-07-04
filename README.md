@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/IshankAggarwal09/DSA/tree/master/0912-sort-an-array) |
 | [1095-find-in-mountain-array](https://github.com/IshankAggarwal09/DSA/tree/master/1095-find-in-mountain-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/IshankAggarwal09/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2013-detect-squares](https://github.com/IshankAggarwal09/DSA/tree/master/2013-detect-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/IshankAggarwal09/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/IshankAggarwal09/DSA/tree/master/0706-design-hashmap) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/IshankAggarwal09/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2013-detect-squares](https://github.com/IshankAggarwal09/DSA/tree/master/2013-detect-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/IshankAggarwal09/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0229-majority-element-ii) |
+| [2013-detect-squares](https://github.com/IshankAggarwal09/DSA/tree/master/2013-detect-squares) |
 ## Linked List
 |  |
 | ------- |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/IshankAggarwal09/DSA/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/IshankAggarwal09/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/IshankAggarwal09/DSA/tree/master/0706-design-hashmap) |
+| [2013-detect-squares](https://github.com/IshankAggarwal09/DSA/tree/master/2013-detect-squares) |
 ## Hash Function
 |  |
 | ------- |
@@ -370,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/IshankAggarwal09/DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0867-transpose-matrix) |
+## Data Stream
+|  |
+| ------- |
+| [2013-detect-squares](https://github.com/IshankAggarwal09/DSA/tree/master/2013-detect-squares) |
 <!---LeetCode Topics End-->
