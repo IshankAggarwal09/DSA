@@ -1,6 +1,6 @@
 class Solution {
-    public boolean isFreqSame(int[] freq1, int[] freq2) {
-        for (int i=0; i<26; i++) {
+    public boolean isSame(int[] freq1, int[] freq2) {
+        for (int i=0; i<26; i++) { 
             if (freq1[i] != freq2[i]) {
                 return false;
             }
@@ -19,10 +19,10 @@ class Solution {
             int idx = i;
             while (winIdx < winSize && idx < s2.length()) {
                 winFreq[s2.charAt(idx) - 'a']++;
-                idx++;
                 winIdx++;
+                idx++;
             }
-            if (isFreqSame(freq, winFreq)) {
+            if (isSame(freq, winFreq)) {
                 return true;
             }
         }
