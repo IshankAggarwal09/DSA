@@ -9,7 +9,7 @@ class Solution {
         int suffix = 1;
         for (int i=n-2; i>=0; i--) {
             suffix *= nums[i+1];
-            ans[i] *= suffix;
+            ans[i] = ans[i] * suffix;
         }
         return ans;
     }
