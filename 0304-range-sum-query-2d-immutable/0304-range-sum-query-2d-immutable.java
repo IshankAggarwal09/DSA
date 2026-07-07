@@ -3,7 +3,7 @@ class NumMatrix {
     int[][] prefix;
 
     public NumMatrix(int[][] matrix) {
-        if (matrix == null || matrix.length == 0 || matrix[0].length == 0) {
+        if (matrix == null || matrix.length < 1 || matrix[0].length < 1) {
             return;
         }
         int m = matrix.length;
