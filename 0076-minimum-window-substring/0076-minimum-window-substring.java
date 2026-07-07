@@ -3,9 +3,9 @@ class Solution {
         int[] freq = new int[256];
         int left = 0;
         int right = 0;
+        int count = 0;
         int minLen = Integer.MAX_VALUE;
         int sIndex = -1;
-        int count = 0;
         for (int i=0; i<t.length(); i++) {
             freq[t.charAt(i)]++;
         }
@@ -15,13 +15,13 @@ class Solution {
             }
             freq[s.charAt(right)]--;
             while (count == t.length()) {
-                if (right-left+1 < minLen) {
+                if (minLen > right-left+1) {
                     minLen = right-left+1;
                     sIndex = left;
                 }
                 freq[s.charAt(left)]++;
                 if (freq[s.charAt(left)] > 0) {
-                    count--;;
+                    count = count - 1;
                 }
                 left++;
             }
