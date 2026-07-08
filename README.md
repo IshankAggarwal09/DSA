@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/IshankAggarwal09/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/IshankAggarwal09/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/IshankAggarwal09/DSA/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/IshankAggarwal09/DSA/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/IshankAggarwal09/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/IshankAggarwal09/DSA/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/IshankAggarwal09/DSA/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/IshankAggarwal09/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/IshankAggarwal09/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/IshankAggarwal09/DSA/tree/master/0131-palindrome-partitioning) |
 | [0337-house-robber-iii](https://github.com/IshankAggarwal09/DSA/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/IshankAggarwal09/DSA/tree/master/0338-counting-bits) |
 ## Doubly-Linked List
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/IshankAggarwal09/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/IshankAggarwal09/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/IshankAggarwal09/DSA/tree/master/0131-palindrome-partitioning) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/IshankAggarwal09/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
