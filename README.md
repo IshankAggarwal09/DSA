@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/IshankAggarwal09/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/IshankAggarwal09/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/IshankAggarwal09/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/IshankAggarwal09/DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/IshankAggarwal09/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/IshankAggarwal09/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/IshankAggarwal09/DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/IshankAggarwal09/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/IshankAggarwal09/DSA/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/IshankAggarwal09/DSA/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/IshankAggarwal09/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/IshankAggarwal09/DSA/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/IshankAggarwal09/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/IshankAggarwal09/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/IshankAggarwal09/DSA/tree/master/0079-word-search) |
 | [0304-range-sum-query-2d-immutable](https://github.com/IshankAggarwal09/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0427-construct-quad-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0427-construct-quad-tree) |
 | [0867-transpose-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0867-transpose-matrix) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/IshankAggarwal09/DSA/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0110-balanced-binary-tree) |
@@ -448,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/IshankAggarwal09/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/IshankAggarwal09/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/IshankAggarwal09/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0090-subsets-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/IshankAggarwal09/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
