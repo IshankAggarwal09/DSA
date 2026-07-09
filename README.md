@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/IshankAggarwal09/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/IshankAggarwal09/DSA/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/IshankAggarwal09/DSA/tree/master/0682-baseball-game) |
+| [0692-top-k-frequent-words](https://github.com/IshankAggarwal09/DSA/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/IshankAggarwal09/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/IshankAggarwal09/DSA/tree/master/0706-design-hashmap) |
 | [0853-car-fleet](https://github.com/IshankAggarwal09/DSA/tree/master/0853-car-fleet) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/IshankAggarwal09/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/IshankAggarwal09/DSA/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/IshankAggarwal09/DSA/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/IshankAggarwal09/DSA/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/IshankAggarwal09/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/IshankAggarwal09/DSA/tree/master/0706-design-hashmap) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/IshankAggarwal09/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/IshankAggarwal09/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/IshankAggarwal09/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/IshankAggarwal09/DSA/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/IshankAggarwal09/DSA/tree/master/0692-top-k-frequent-words) |
 | [0853-car-fleet](https://github.com/IshankAggarwal09/DSA/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/IshankAggarwal09/DSA/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/IshankAggarwal09/DSA/tree/master/0912-sort-an-array) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/IshankAggarwal09/DSA/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/IshankAggarwal09/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/IshankAggarwal09/DSA/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/IshankAggarwal09/DSA/tree/master/0692-top-k-frequent-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/IshankAggarwal09/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/IshankAggarwal09/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Trie
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/IshankAggarwal09/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0212-word-search-ii) |
+| [0692-top-k-frequent-words](https://github.com/IshankAggarwal09/DSA/tree/master/0692-top-k-frequent-words) |
 ## Two Pointers
 |  |
 | ------- |
@@ -175,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/IshankAggarwal09/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/IshankAggarwal09/DSA/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/IshankAggarwal09/DSA/tree/master/0692-top-k-frequent-words) |
 | [2013-detect-squares](https://github.com/IshankAggarwal09/DSA/tree/master/2013-detect-squares) |
 ## Linked List
 |  |
@@ -213,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/IshankAggarwal09/DSA/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/IshankAggarwal09/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/IshankAggarwal09/DSA/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/IshankAggarwal09/DSA/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/IshankAggarwal09/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/IshankAggarwal09/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/IshankAggarwal09/DSA/tree/master/1046-last-stone-weight) |
@@ -224,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/IshankAggarwal09/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/IshankAggarwal09/DSA/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/IshankAggarwal09/DSA/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
