@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/IshankAggarwal09/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/IshankAggarwal09/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/IshankAggarwal09/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/IshankAggarwal09/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/IshankAggarwal09/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/IshankAggarwal09/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0208-implement-trie-prefix-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/IshankAggarwal09/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/IshankAggarwal09/DSA/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/IshankAggarwal09/DSA/tree/master/0394-decode-string) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/IshankAggarwal09/DSA/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/IshankAggarwal09/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0212-word-search-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/IshankAggarwal09/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/IshankAggarwal09/DSA/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0212-word-search-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/IshankAggarwal09/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0427-construct-quad-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0427-construct-quad-tree) |
 | [0867-transpose-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0867-transpose-matrix) |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/IshankAggarwal09/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/IshankAggarwal09/DSA/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0212-word-search-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/IshankAggarwal09/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
