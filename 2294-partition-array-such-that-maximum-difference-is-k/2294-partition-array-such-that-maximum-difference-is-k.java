@@ -3,9 +3,9 @@ class Solution {
         Arrays.sort(nums);
         int count = 1;
         int minVal = nums[0];
-        for (int i=1; i<nums.length; i++) {
-            if (nums[i] - minVal > k) {
-                minVal = nums[i];
+        for (int num : nums) {
+            if (num - minVal > k) {
+                minVal = num;
                 count++;
             }
         }
