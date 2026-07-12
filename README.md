@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/IshankAggarwal09/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/IshankAggarwal09/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/IshankAggarwal09/DSA/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/IshankAggarwal09/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/IshankAggarwal09/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/IshankAggarwal09/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/IshankAggarwal09/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/IshankAggarwal09/DSA/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/IshankAggarwal09/DSA/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0212-word-search-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/IshankAggarwal09/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0427-construct-quad-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0427-construct-quad-tree) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/IshankAggarwal09/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/IshankAggarwal09/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/IshankAggarwal09/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/IshankAggarwal09/DSA/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/IshankAggarwal09/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/IshankAggarwal09/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/IshankAggarwal09/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/IshankAggarwal09/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/IshankAggarwal09/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/IshankAggarwal09/DSA/tree/master/0547-number-of-provinces) |
@@ -544,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/IshankAggarwal09/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/IshankAggarwal09/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/IshankAggarwal09/DSA/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
