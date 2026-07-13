@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/IshankAggarwal09/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/IshankAggarwal09/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0427-construct-quad-tree) |
+| [0542-01-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/IshankAggarwal09/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/IshankAggarwal09/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/IshankAggarwal09/DSA/tree/master/0658-find-k-closest-elements) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0212-word-search-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/IshankAggarwal09/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0427-construct-quad-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0427-construct-quad-tree) |
+| [0542-01-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/IshankAggarwal09/DSA/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/IshankAggarwal09/DSA/tree/master/0994-rotting-oranges) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/IshankAggarwal09/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/IshankAggarwal09/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/IshankAggarwal09/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/IshankAggarwal09/DSA/tree/master/0994-rotting-oranges) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/IshankAggarwal09/DSA/tree/master/0131-palindrome-partitioning) |
 | [0337-house-robber-iii](https://github.com/IshankAggarwal09/DSA/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/IshankAggarwal09/DSA/tree/master/0338-counting-bits) |
+| [0542-01-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0542-01-matrix) |
 ## Doubly-Linked List
 |  |
 | ------- |
