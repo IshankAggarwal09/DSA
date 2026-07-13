@@ -553,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/IshankAggarwal09/DSA/tree/master/0869-reordered-power-of-2) |
+| [1291-sequential-digits](https://github.com/IshankAggarwal09/DSA/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/IshankAggarwal09/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Union-Find
 |  |
