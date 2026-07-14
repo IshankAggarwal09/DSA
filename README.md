@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/IshankAggarwal09/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/IshankAggarwal09/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/IshankAggarwal09/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/IshankAggarwal09/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3433-count-mentions-per-user](https://github.com/IshankAggarwal09/DSA/tree/master/3433-count-mentions-per-user) |
 ## Hash Table
 |  |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/IshankAggarwal09/DSA/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/IshankAggarwal09/DSA/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0542-01-matrix) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/IshankAggarwal09/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -514,11 +516,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/IshankAggarwal09/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/IshankAggarwal09/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/IshankAggarwal09/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/IshankAggarwal09/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3433-count-mentions-per-user](https://github.com/IshankAggarwal09/DSA/tree/master/3433-count-mentions-per-user) |
 ## Number Theory
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/IshankAggarwal09/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/IshankAggarwal09/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Simulation
 |  |
 | ------- |
