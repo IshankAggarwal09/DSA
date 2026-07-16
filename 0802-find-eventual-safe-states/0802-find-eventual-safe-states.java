@@ -1,37 +1,39 @@
 class Solution {
-    public boolean dfs(int node, int[] vis, int[] pathVis, int[] check, int[][] graph) {
-        vis[node] = 1;
-        pathVis[node] = 1;
-        check[node] = 0;
-        for (int it : graph[node]) {
-            if (vis[it] == 0) {
-                if (dfs(it, vis, pathVis, check, graph)) {
-                    return true;
+    public List<Integer> eventualSafeNodes(int[][] graph) {
+        int V = graph.length;
+        ArrayList<ArrayList<Integer>> revAdj = new ArrayList<>();
+        for (int i=0; i<V; i++) {
+            revAdj.add(new ArrayList<Integer>());
+        }
+        for (int u=0; u<V; u++) {
+            for (int v : graph[u]) {
+                revAdj.get(v).add(u);
+            }
+        }
+        int[] indegree = new int[graph.length];
+        for (int i=0; i<graph.length; i++) {
+            for (int it : revAdj.get(i)) {
+                indegree[it]++;
+            }
+        }
+        Queue<Integer> q = new LinkedList<>();
+        List<Integer> safeNodes = new ArrayList<>();
+        for (int i=0; i<V; i++) {
+            if (indegree[i] == 0) {
+                q.add(i);
+            }
+        }
+        while (!q.isEmpty()) {
+            int node = q.poll();
+            safeNodes.add(node);
+            for (int it : revAdj.get(node)) {
+                indegree[it]--;
+                if (indegree[it] == 0) {
+                    q.add(it);
                 }
             }
-            else if (pathVis[it] == 1) {
-                return true;
-            }
         }
-        check[node] = 1;
-        pathVis[node] = 0;
-        return false;
-    }
-    public List<Integer> eventualSafeNodes(int[][] graph) {
-        int[] vis = new int[graph.length];
-        int[] pathVis = new int[graph.length];
-        int[] check = new int[graph.length];
-        for (int i=0; i<graph.length; i++) {
-            if (vis[i] == 0) {
-                dfs(i, vis, pathVis, check, graph);
-            }
-        }
-        List<Integer> ans = new ArrayList<>();
-        for (int i=0; i<graph.length; i++) {
-            if (check[i] == 1) {
-                ans.add(i);
-            }
-        }
-        return ans;
+        Collections.sort(safeNodes);
+        return safeNodes;
     }
 }
