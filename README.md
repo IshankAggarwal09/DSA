@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/IshankAggarwal09/DSA/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/IshankAggarwal09/DSA/tree/master/1046-last-stone-weight) |
 | [1095-find-in-mountain-array](https://github.com/IshankAggarwal09/DSA/tree/master/1095-find-in-mountain-array) |
+| [1260-shift-2d-grid](https://github.com/IshankAggarwal09/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/IshankAggarwal09/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/IshankAggarwal09/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/IshankAggarwal09/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/IshankAggarwal09/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/IshankAggarwal09/DSA/tree/master/1020-number-of-enclaves) |
+| [1260-shift-2d-grid](https://github.com/IshankAggarwal09/DSA/tree/master/1260-shift-2d-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/IshankAggarwal09/DSA/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/IshankAggarwal09/DSA/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/IshankAggarwal09/DSA/tree/master/1929-concatenation-of-array) |
 | [3433-count-mentions-per-user](https://github.com/IshankAggarwal09/DSA/tree/master/3433-count-mentions-per-user) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/IshankAggarwal09/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
