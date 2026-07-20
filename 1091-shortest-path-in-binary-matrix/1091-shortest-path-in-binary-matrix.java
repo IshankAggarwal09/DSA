@@ -1,67 +1,56 @@
 class Pair {
-    int row;
-    int col;
-    int dist;
-    Pair(int row, int col, int dist) {
-        this.row = row;
-        this.col = col;
-        this.dist = dist;
+    int u;
+    int v;
+    int weight;
+    Pair(int u, int v, int weight) {
+        this.u = u;
+        this.v = v;
+        this.weight = weight;
     }
 }
 
 class Solution {
+
+    Queue<Pair> q = new PriorityQueue<>((a, b) -> a.weight - b.weight);
+    int[][] dir = {{-1, -1}, {-1, 0}, {-1, 1}, {0, -1}, {0, 1}, {1, -1}, {1, 0}, {1, 1}};
+
+    public boolean isSafe(int i, int j, int n, int m) {
+        if (i >= 0 && i < n && j >= 0 && j < m) {
+            return true;
+        }
+        return false;
+    }
+
     public int shortestPathBinaryMatrix(int[][] grid) {
         int n = grid.length;
-        if (grid[0][0] == 1 || grid[n-1][n-1] == 1) {
+        int m = grid[0].length;
+        int[][] res = new int[n][m];
+        if (grid[n-1][m-1] == 1 || grid[0][0] == 1) {
             return -1;
         }
-        if (n == 1) {
-            return 1;
+        for (int i=0; i<n; i++) {
+            for (int j=0; j<m; j++) {
+                res[i][j] = Integer.MAX_VALUE;
+            }
         }
-        Queue<Pair> q = new LinkedList<>();
+        res[0][0] = 1;
         q.add(new Pair(0, 0, 1));
-        grid[0][0] = 1;
         while (!q.isEmpty()) {
-            int r = q.peek().row;
-            int c = q.peek().col;
-            int dist = q.peek().dist;
-            q.remove();
-            if (r == n-1 && c == n-1) {
-                return dist;
-            }
-            if (r-1 >= 0 && grid[r-1][c] != 1) {
-                q.add(new Pair(r-1, c, dist+1));
-                grid[r-1][c] = 1;
-            }
-            if (r+1 < n && grid[r+1][c] != 1) {
-                q.add(new Pair(r+1, c, dist+1));
-                grid[r+1][c] = 1;
-            }
-            if (c+1 < n && grid[r][c+1] != 1) {
-                q.add(new Pair(r, c+1, dist+1));
-                grid[r][c+1] = 1;
-            }
-            if (c-1 >= 0 && grid[r][c-1] != 1) {
-                q.add(new Pair(r, c-1, dist+1));
-                grid[r][c-1] = 1;
-            }
-            if (r-1 >= 0 && c-1 >= 0 && grid[r-1][c-1] != 1) {
-                q.add(new Pair(r-1, c-1, dist+1));
-                grid[r-1][c-1] = 1;
-            }
-            if (r-1 >= 0 && c+1 < n && grid[r-1][c+1] != 1) {
-                q.add(new Pair(r-1, c+1, dist+1));
-                grid[r-1][c+1] = 1;
-            }
-            if (r+1 < n && c-1 >= 0 && grid[r+1][c-1] != 1) {
-                q.add(new Pair(r+1, c-1, dist+1));
-                grid[r+1][c-1] = 1;
-            }
-            if (r+1 < n && c+1 < n && grid[r+1][c+1] != 1) {
-                q.add(new Pair(r+1, c+1, dist+1));
-                grid[r+1][c+1] = 1;
+            int u = q.peek().u;
+            int v = q.peek().v;
+            int w = q.peek().weight;
+            q.poll();
+            for (int[] d : dir) {
+                int x = u + d[0];
+                int y = v + d[1];
+                if (isSafe(x, y, n, m)) {
+                    if (grid[x][y] == 0 && res[x][y] > 1 + res[u][v]) {
+                        res[x][y] = 1 + res[u][v];
+                        q.add(new Pair(x, y, res[x][y]));
+                    }
+                }
             }
         }
-        return -1;
+        return res[n-1][m-1] == Integer.MAX_VALUE ? -1 : res[n-1][m-1];
     }
 }
