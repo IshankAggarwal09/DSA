@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/IshankAggarwal09/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/IshankAggarwal09/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/IshankAggarwal09/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1631-path-with-minimum-effort](https://github.com/IshankAggarwal09/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/IshankAggarwal09/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/IshankAggarwal09/DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/IshankAggarwal09/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/IshankAggarwal09/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/IshankAggarwal09/DSA/tree/master/1046-last-stone-weight) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/IshankAggarwal09/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1631-path-with-minimum-effort](https://github.com/IshankAggarwal09/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/IshankAggarwal09/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Merge Sort
 |  |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/IshankAggarwal09/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/IshankAggarwal09/DSA/tree/master/1260-shift-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/IshankAggarwal09/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/IshankAggarwal09/DSA/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/IshankAggarwal09/DSA/tree/master/0658-find-k-closest-elements) |
 | [1095-find-in-mountain-array](https://github.com/IshankAggarwal09/DSA/tree/master/1095-find-in-mountain-array) |
+| [1631-path-with-minimum-effort](https://github.com/IshankAggarwal09/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Tree
 |  |
 | ------- |
@@ -404,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/IshankAggarwal09/DSA/tree/master/1020-number-of-enclaves) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/IshankAggarwal09/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/IshankAggarwal09/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -427,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/IshankAggarwal09/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/IshankAggarwal09/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -622,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/IshankAggarwal09/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/IshankAggarwal09/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/IshankAggarwal09/DSA/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/IshankAggarwal09/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
