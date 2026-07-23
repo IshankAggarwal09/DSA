@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/IshankAggarwal09/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/IshankAggarwal09/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/IshankAggarwal09/DSA/tree/master/0692-top-k-frequent-words) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/IshankAggarwal09/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/IshankAggarwal09/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/IshankAggarwal09/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/IshankAggarwal09/DSA/tree/master/1046-last-stone-weight) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/IshankAggarwal09/DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/IshankAggarwal09/DSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/IshankAggarwal09/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/IshankAggarwal09/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/IshankAggarwal09/DSA/tree/master/1020-number-of-enclaves) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/IshankAggarwal09/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/IshankAggarwal09/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/IshankAggarwal09/DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/IshankAggarwal09/DSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/IshankAggarwal09/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/IshankAggarwal09/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/IshankAggarwal09/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/IshankAggarwal09/DSA/tree/master/1020-number-of-enclaves) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/IshankAggarwal09/DSA/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/IshankAggarwal09/DSA/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/IshankAggarwal09/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/IshankAggarwal09/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Doubly-Linked List
 |  |
@@ -639,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/IshankAggarwal09/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/IshankAggarwal09/DSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/IshankAggarwal09/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/IshankAggarwal09/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
@@ -650,4 +655,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/IshankAggarwal09/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/IshankAggarwal09/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
