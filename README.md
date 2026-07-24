@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/IshankAggarwal09/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/IshankAggarwal09/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/IshankAggarwal09/DSA/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/IshankAggarwal09/DSA/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/IshankAggarwal09/DSA/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/IshankAggarwal09/DSA/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/IshankAggarwal09/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/IshankAggarwal09/DSA/tree/master/0706-design-hashmap) |
 | [0869-reordered-power-of-2](https://github.com/IshankAggarwal09/DSA/tree/master/0869-reordered-power-of-2) |
+| [0997-find-the-town-judge](https://github.com/IshankAggarwal09/DSA/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/IshankAggarwal09/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/IshankAggarwal09/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2013-detect-squares](https://github.com/IshankAggarwal09/DSA/tree/master/2013-detect-squares) |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/IshankAggarwal09/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IshankAggarwal09/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/IshankAggarwal09/DSA/tree/master/0802-find-eventual-safe-states) |
+| [0997-find-the-town-judge](https://github.com/IshankAggarwal09/DSA/tree/master/0997-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
