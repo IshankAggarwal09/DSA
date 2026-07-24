@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/IshankAggarwal09/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/IshankAggarwal09/DSA/tree/master/0706-design-hashmap) |
 | [0733-flood-fill](https://github.com/IshankAggarwal09/DSA/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/IshankAggarwal09/DSA/tree/master/0752-open-the-lock) |
 | [0853-car-fleet](https://github.com/IshankAggarwal09/DSA/tree/master/0853-car-fleet) |
 | [0867-transpose-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/IshankAggarwal09/DSA/tree/master/0881-boats-to-save-people) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/IshankAggarwal09/DSA/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/IshankAggarwal09/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/IshankAggarwal09/DSA/tree/master/0706-design-hashmap) |
+| [0752-open-the-lock](https://github.com/IshankAggarwal09/DSA/tree/master/0752-open-the-lock) |
 | [0869-reordered-power-of-2](https://github.com/IshankAggarwal09/DSA/tree/master/0869-reordered-power-of-2) |
 | [0997-find-the-town-judge](https://github.com/IshankAggarwal09/DSA/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/IshankAggarwal09/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/IshankAggarwal09/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/IshankAggarwal09/DSA/tree/master/0692-top-k-frequent-words) |
+| [0752-open-the-lock](https://github.com/IshankAggarwal09/DSA/tree/master/0752-open-the-lock) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/IshankAggarwal09/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/IshankAggarwal09/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/IshankAggarwal09/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/IshankAggarwal09/DSA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/IshankAggarwal09/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/IshankAggarwal09/DSA/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/IshankAggarwal09/DSA/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/IshankAggarwal09/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IshankAggarwal09/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/IshankAggarwal09/DSA/tree/master/0802-find-eventual-safe-states) |
