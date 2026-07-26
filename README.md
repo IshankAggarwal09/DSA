@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/IshankAggarwal09/DSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/IshankAggarwal09/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/IshankAggarwal09/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/IshankAggarwal09/DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/IshankAggarwal09/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/IshankAggarwal09/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0212-word-search-ii) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/IshankAggarwal09/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/IshankAggarwal09/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/IshankAggarwal09/DSA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/IshankAggarwal09/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/IshankAggarwal09/DSA/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/IshankAggarwal09/DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/IshankAggarwal09/DSA/tree/master/0658-find-k-closest-elements) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/IshankAggarwal09/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/IshankAggarwal09/DSA/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/IshankAggarwal09/DSA/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/IshankAggarwal09/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/IshankAggarwal09/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/IshankAggarwal09/DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/IshankAggarwal09/DSA/tree/master/0371-sum-of-two-integers) |
