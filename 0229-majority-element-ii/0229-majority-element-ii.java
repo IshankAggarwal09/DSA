@@ -1,5 +1,7 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
+        int n = nums.length;
+        List<Integer> ans = new ArrayList<>();
         int candidate1 = 0;
         int candidate2 = 0;
         int count1 = 0;
@@ -34,11 +36,10 @@ class Solution {
                 count2++;
             }
         }
-        List<Integer> ans = new ArrayList<>();
-        if (count1 > nums.length/3) {
+        if (count1 > n/3) {
             ans.add(candidate1);
         }
-        if (count2 > nums.length/3) {
+        if (count2 > n/3) {
             ans.add(candidate2);
         }
         return ans;
