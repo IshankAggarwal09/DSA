@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/IshankAggarwal09/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/IshankAggarwal09/DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/IshankAggarwal09/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/IshankAggarwal09/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/IshankAggarwal09/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/IshankAggarwal09/DSA/tree/master/0118-pascals-triangle) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/IshankAggarwal09/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/IshankAggarwal09/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/IshankAggarwal09/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/IshankAggarwal09/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/IshankAggarwal09/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/IshankAggarwal09/DSA/tree/master/0217-contains-duplicate) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/IshankAggarwal09/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/IshankAggarwal09/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/IshankAggarwal09/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/IshankAggarwal09/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/IshankAggarwal09/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/IshankAggarwal09/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/IshankAggarwal09/DSA/tree/master/0202-happy-number) |
