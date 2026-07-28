@@ -1,11 +1,18 @@
 class Solution {
     public String smallestPalindrome(String s) {
-        int n = s.length();
-        int mid = n/2;
         char[] arr = s.toCharArray();
-        Arrays.sort(arr, 0, mid);
-        for (int i=0; i<mid; i++) {
-            arr[n-1-i] = arr[i];
+        int n = arr.length;
+        int[] freq = new int[26];
+        for (int i=0; i<n/2; i++) {
+            freq[arr[i] - 'a']++;
+        }
+        int j = 0;
+        for (int i=0; i<26; i++) {
+            while (freq[i]-- > 0) {
+                arr[j] = (char) ('a' + i);
+                arr[n - 1 - j] = arr[j];
+                j++;
+            }
         }
         return new String(arr);
     }
