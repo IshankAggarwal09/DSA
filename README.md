@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/IshankAggarwal09/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/IshankAggarwal09/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/IshankAggarwal09/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/IshankAggarwal09/DSA/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/IshankAggarwal09/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/IshankAggarwal09/DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/IshankAggarwal09/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/IshankAggarwal09/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/IshankAggarwal09/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/IshankAggarwal09/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/IshankAggarwal09/DSA/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/IshankAggarwal09/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/IshankAggarwal09/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/IshankAggarwal09/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/IshankAggarwal09/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/IshankAggarwal09/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/IshankAggarwal09/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/IshankAggarwal09/DSA/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/IshankAggarwal09/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Merge Sort
 |  |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/IshankAggarwal09/DSA/tree/master/0658-find-k-closest-elements) |
 | [1095-find-in-mountain-array](https://github.com/IshankAggarwal09/DSA/tree/master/1095-find-in-mountain-array) |
 | [1631-path-with-minimum-effort](https://github.com/IshankAggarwal09/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/IshankAggarwal09/DSA/tree/master/1851-minimum-interval-to-include-each-query) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/IshankAggarwal09/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Tree
 |  |
@@ -755,4 +759,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/IshankAggarwal09/DSA/tree/master/0332-reconstruct-itinerary) |
+## Sweep Line
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/IshankAggarwal09/DSA/tree/master/1851-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
