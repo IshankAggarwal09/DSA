@@ -491,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/IshankAggarwal09/DSA/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/IshankAggarwal09/DSA/tree/master/1631-path-with-minimum-effort) |
+| [3310-remove-methods-from-project](https://github.com/IshankAggarwal09/DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/IshankAggarwal09/DSA/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/IshankAggarwal09/DSA/tree/master/1631-path-with-minimum-effort) |
+| [3310-remove-methods-from-project](https://github.com/IshankAggarwal09/DSA/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/IshankAggarwal09/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/IshankAggarwal09/DSA/tree/master/0997-find-the-town-judge) |
 | [1462-course-schedule-iv](https://github.com/IshankAggarwal09/DSA/tree/master/1462-course-schedule-iv) |
+| [3310-remove-methods-from-project](https://github.com/IshankAggarwal09/DSA/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
