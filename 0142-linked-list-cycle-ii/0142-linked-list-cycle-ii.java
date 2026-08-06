@@ -15,16 +15,18 @@ public class Solution {
             return null;
         }
         ListNode slow = head;
-        ListNode fast = head.next;
-        while (fast != slow) {
-            if (fast == null || fast.next == null) {
-                return null;
-            }
+        ListNode fast = head;
+        while (fast != null && fast.next != null) {
             fast = fast.next.next;
             slow = slow.next;
+            if (fast == slow) {
+                break;
+            }
+        }
+        if (fast == null || fast.next == null) {
+            return null;
         }
         fast = head;
-        slow = slow.next;
         while (fast != slow) {
             fast = fast.next;
             slow = slow.next;
