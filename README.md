@@ -663,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/IshankAggarwal09/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/IshankAggarwal09/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/IshankAggarwal09/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/IshankAggarwal09/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3433-count-mentions-per-user](https://github.com/IshankAggarwal09/DSA/tree/master/3433-count-mentions-per-user) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/IshankAggarwal09/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/IshankAggarwal09/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/IshankAggarwal09/DSA/tree/master/0869-reordered-power-of-2) |
 | [1291-sequential-digits](https://github.com/IshankAggarwal09/DSA/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/IshankAggarwal09/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/IshankAggarwal09/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/IshankAggarwal09/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/IshankAggarwal09/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Union-Find
