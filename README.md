@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/IshankAggarwal09/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/IshankAggarwal09/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/IshankAggarwal09/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/IshankAggarwal09/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/IshankAggarwal09/DSA/tree/master/0018-4sum) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/IshankAggarwal09/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/IshankAggarwal09/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/IshankAggarwal09/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/IshankAggarwal09/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/IshankAggarwal09/DSA/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/IshankAggarwal09/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0435-non-overlapping-intervals](https://github.com/IshankAggarwal09/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/IshankAggarwal09/DSA/tree/master/0621-task-scheduler) |
