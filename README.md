@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/IshankAggarwal09/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0332-reconstruct-itinerary](https://github.com/IshankAggarwal09/DSA/tree/master/0332-reconstruct-itinerary) |
+| [0345-reverse-vowels-of-a-string](https://github.com/IshankAggarwal09/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/IshankAggarwal09/DSA/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/IshankAggarwal09/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/IshankAggarwal09/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/IshankAggarwal09/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/IshankAggarwal09/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/IshankAggarwal09/DSA/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/IshankAggarwal09/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/IshankAggarwal09/DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/IshankAggarwal09/DSA/tree/master/0658-find-k-closest-elements) |
