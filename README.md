@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/IshankAggarwal09/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/IshankAggarwal09/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/IshankAggarwal09/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/IshankAggarwal09/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2709-greatest-common-divisor-traversal](https://github.com/IshankAggarwal09/DSA/tree/master/2709-greatest-common-divisor-traversal) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/IshankAggarwal09/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/IshankAggarwal09/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/IshankAggarwal09/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2013-detect-squares](https://github.com/IshankAggarwal09/DSA/tree/master/2013-detect-squares) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/IshankAggarwal09/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/IshankAggarwal09/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/IshankAggarwal09/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/IshankAggarwal09/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/IshankAggarwal09/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/IshankAggarwal09/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/IshankAggarwal09/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/IshankAggarwal09/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/IshankAggarwal09/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/IshankAggarwal09/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/IshankAggarwal09/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
