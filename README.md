@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2013-detect-squares](https://github.com/IshankAggarwal09/DSA/tree/master/2013-detect-squares) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/IshankAggarwal09/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/IshankAggarwal09/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/IshankAggarwal09/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/IshankAggarwal09/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/IshankAggarwal09/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2709-greatest-common-divisor-traversal](https://github.com/IshankAggarwal09/DSA/tree/master/2709-greatest-common-divisor-traversal) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/IshankAggarwal09/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/IshankAggarwal09/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/IshankAggarwal09/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/IshankAggarwal09/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/IshankAggarwal09/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/IshankAggarwal09/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/IshankAggarwal09/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -842,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/IshankAggarwal09/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/IshankAggarwal09/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Shortest Path
 |  |
@@ -892,4 +895,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/IshankAggarwal09/DSA/tree/master/0881-boats-to-save-people) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/IshankAggarwal09/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
