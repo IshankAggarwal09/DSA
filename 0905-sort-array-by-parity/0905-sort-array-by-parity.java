@@ -1,14 +1,17 @@
 class Solution {
     public int[] sortArrayByParity(int[] nums) {
-        int result[] = new int[nums.length];
-        int start = 0;
-        int end = nums.length-1;
-        for(int num : nums){
-            if(num % 2 == 0){
-                result[start++] = num;
+        int n = nums.length;
+        int[] result = new int[n];
+        int even = 0;
+        int odd = n-1;
+        for (int i=0; i<n; i++) {
+            if (nums[i] % 2 == 0) {
+                result[even] = nums[i];
+                even++;
             }
-            else{
-                result[end--] = num;
+            else {
+                result[odd] = nums[i];
+                odd--;
             }
         }
         return result;
