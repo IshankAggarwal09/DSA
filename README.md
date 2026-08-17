@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/IshankAggarwal09/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1406-stone-game-iii](https://github.com/IshankAggarwal09/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/IshankAggarwal09/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/IshankAggarwal09/DSA/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/IshankAggarwal09/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/IshankAggarwal09/DSA/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/IshankAggarwal09/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/IshankAggarwal09/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/IshankAggarwal09/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/IshankAggarwal09/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/IshankAggarwal09/DSA/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/IshankAggarwal09/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/IshankAggarwal09/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Doubly-Linked List
@@ -765,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/IshankAggarwal09/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/IshankAggarwal09/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/IshankAggarwal09/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/IshankAggarwal09/DSA/tree/master/1563-stone-game-v) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/IshankAggarwal09/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/IshankAggarwal09/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/IshankAggarwal09/DSA/tree/master/2029-stone-game-ix) |
@@ -912,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/IshankAggarwal09/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/IshankAggarwal09/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/IshankAggarwal09/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/IshankAggarwal09/DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/IshankAggarwal09/DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
