@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/IshankAggarwal09/DSA/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/IshankAggarwal09/DSA/tree/master/0692-top-k-frequent-words) |
+| [0696-count-binary-substrings](https://github.com/IshankAggarwal09/DSA/tree/master/0696-count-binary-substrings) |
 | [0752-open-the-lock](https://github.com/IshankAggarwal09/DSA/tree/master/0752-open-the-lock) |
 | [0821-shortest-distance-to-a-character](https://github.com/IshankAggarwal09/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0942-di-string-match](https://github.com/IshankAggarwal09/DSA/tree/master/0942-di-string-match) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/IshankAggarwal09/DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/IshankAggarwal09/DSA/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/IshankAggarwal09/DSA/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/IshankAggarwal09/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/IshankAggarwal09/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/IshankAggarwal09/DSA/tree/master/0881-boats-to-save-people) |
