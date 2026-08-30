@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/IshankAggarwal09/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2013-detect-squares](https://github.com/IshankAggarwal09/DSA/tree/master/2013-detect-squares) |
 | [2029-stone-game-ix](https://github.com/IshankAggarwal09/DSA/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/IshankAggarwal09/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/IshankAggarwal09/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2105-watering-plants-ii](https://github.com/IshankAggarwal09/DSA/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/IshankAggarwal09/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1754-largest-merge-of-two-strings](https://github.com/IshankAggarwal09/DSA/tree/master/1754-largest-merge-of-two-strings) |
 | [1927-sum-game](https://github.com/IshankAggarwal09/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/IshankAggarwal09/DSA/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/IshankAggarwal09/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/IshankAggarwal09/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/IshankAggarwal09/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/IshankAggarwal09/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
