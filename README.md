@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/IshankAggarwal09/DSA/tree/master/0696-count-binary-substrings) |
 | [0752-open-the-lock](https://github.com/IshankAggarwal09/DSA/tree/master/0752-open-the-lock) |
 | [0821-shortest-distance-to-a-character](https://github.com/IshankAggarwal09/DSA/tree/master/0821-shortest-distance-to-a-character) |
+| [0940-distinct-subsequences-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/IshankAggarwal09/DSA/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/IshankAggarwal09/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/IshankAggarwal09/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IshankAggarwal09/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/IshankAggarwal09/DSA/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/IshankAggarwal09/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/IshankAggarwal09/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/IshankAggarwal09/DSA/tree/master/1510-stone-game-iv) |
