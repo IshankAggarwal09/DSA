@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/IshankAggarwal09/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/IshankAggarwal09/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2013-detect-squares](https://github.com/IshankAggarwal09/DSA/tree/master/2013-detect-squares) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/IshankAggarwal09/DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/IshankAggarwal09/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/IshankAggarwal09/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/IshankAggarwal09/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/IshankAggarwal09/DSA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/IshankAggarwal09/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/IshankAggarwal09/DSA/tree/master/2000-reverse-prefix-of-word) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/IshankAggarwal09/DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/IshankAggarwal09/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/IshankAggarwal09/DSA/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/IshankAggarwal09/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
