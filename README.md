@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/IshankAggarwal09/DSA/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/IshankAggarwal09/DSA/tree/master/0752-open-the-lock) |
 | [0821-shortest-distance-to-a-character](https://github.com/IshankAggarwal09/DSA/tree/master/0821-shortest-distance-to-a-character) |
+| [0835-image-overlap](https://github.com/IshankAggarwal09/DSA/tree/master/0835-image-overlap) |
 | [0853-car-fleet](https://github.com/IshankAggarwal09/DSA/tree/master/0853-car-fleet) |
 | [0867-transpose-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/IshankAggarwal09/DSA/tree/master/0877-stone-game) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/IshankAggarwal09/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/IshankAggarwal09/DSA/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/IshankAggarwal09/DSA/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/IshankAggarwal09/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/IshankAggarwal09/DSA/tree/master/1020-number-of-enclaves) |
