@@ -679,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-course-schedule-iv](https://github.com/IshankAggarwal09/DSA/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/IshankAggarwal09/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/IshankAggarwal09/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2360-longest-cycle-in-a-graph](https://github.com/IshankAggarwal09/DSA/tree/master/2360-longest-cycle-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/IshankAggarwal09/DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/IshankAggarwal09/DSA/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/IshankAggarwal09/DSA/tree/master/1631-path-with-minimum-effort) |
+| [2360-longest-cycle-in-a-graph](https://github.com/IshankAggarwal09/DSA/tree/master/2360-longest-cycle-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/IshankAggarwal09/DSA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/IshankAggarwal09/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
@@ -1005,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/IshankAggarwal09/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/IshankAggarwal09/DSA/tree/master/0997-find-the-town-judge) |
 | [1462-course-schedule-iv](https://github.com/IshankAggarwal09/DSA/tree/master/1462-course-schedule-iv) |
+| [2360-longest-cycle-in-a-graph](https://github.com/IshankAggarwal09/DSA/tree/master/2360-longest-cycle-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/IshankAggarwal09/DSA/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
@@ -1013,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/IshankAggarwal09/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1462-course-schedule-iv](https://github.com/IshankAggarwal09/DSA/tree/master/1462-course-schedule-iv) |
+| [2360-longest-cycle-in-a-graph](https://github.com/IshankAggarwal09/DSA/tree/master/2360-longest-cycle-in-a-graph) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1092,4 +1096,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/IshankAggarwal09/DSA/tree/master/0005-longest-palindromic-substring) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/IshankAggarwal09/DSA/tree/master/2360-longest-cycle-in-a-graph) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/IshankAggarwal09/DSA/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
