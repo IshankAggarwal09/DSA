@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/IshankAggarwal09/DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/IshankAggarwal09/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/IshankAggarwal09/DSA/tree/master/2337-move-pieces-to-obtain-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/IshankAggarwal09/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/IshankAggarwal09/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/IshankAggarwal09/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/IshankAggarwal09/DSA/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2337-move-pieces-to-obtain-a-string](https://github.com/IshankAggarwal09/DSA/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/IshankAggarwal09/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/IshankAggarwal09/DSA/tree/master/2460-apply-operations-to-an-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/IshankAggarwal09/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/IshankAggarwal09/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/IshankAggarwal09/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/IshankAggarwal09/DSA/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/IshankAggarwal09/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/IshankAggarwal09/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/IshankAggarwal09/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/IshankAggarwal09/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/IshankAggarwal09/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2938-separate-black-and-white-balls](https://github.com/IshankAggarwal09/DSA/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/IshankAggarwal09/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -767,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/IshankAggarwal09/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/IshankAggarwal09/DSA/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/IshankAggarwal09/DSA/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/IshankAggarwal09/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/IshankAggarwal09/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/IshankAggarwal09/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/IshankAggarwal09/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
