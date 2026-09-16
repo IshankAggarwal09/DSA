@@ -3,7 +3,7 @@ class Solution {
         int n = word.length();
         int ans = 0;
         Set<Character> set = new HashSet<>();
-        for (int i=0; i<n-4; i++) {
+        for (int i=0; i<n; i++) {
             set.clear();
             for (int j=i; j<n; j++) {
                 char ch = word.charAt(j);
