@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/IshankAggarwal09/DSA/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/IshankAggarwal09/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/IshankAggarwal09/DSA/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/IshankAggarwal09/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/IshankAggarwal09/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/IshankAggarwal09/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/IshankAggarwal09/DSA/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
@@ -842,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/IshankAggarwal09/DSA/tree/master/0853-car-fleet) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/IshankAggarwal09/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/IshankAggarwal09/DSA/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/IshankAggarwal09/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/IshankAggarwal09/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
@@ -1156,4 +1158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/IshankAggarwal09/DSA/tree/master/2360-longest-cycle-in-a-graph) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/IshankAggarwal09/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
