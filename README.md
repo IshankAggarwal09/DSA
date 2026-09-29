@@ -1190,4 +1190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/IshankAggarwal09/DSA/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/IshankAggarwal09/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/IshankAggarwal09/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
