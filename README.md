@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/IshankAggarwal09/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/IshankAggarwal09/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/IshankAggarwal09/DSA/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/IshankAggarwal09/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/IshankAggarwal09/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/IshankAggarwal09/DSA/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/IshankAggarwal09/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2938-separate-black-and-white-balls](https://github.com/IshankAggarwal09/DSA/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/IshankAggarwal09/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/IshankAggarwal09/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/IshankAggarwal09/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/IshankAggarwal09/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/IshankAggarwal09/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/IshankAggarwal09/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/IshankAggarwal09/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0212-word-search-ii) |
 | [0692-top-k-frequent-words](https://github.com/IshankAggarwal09/DSA/tree/master/0692-top-k-frequent-words) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/IshankAggarwal09/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/IshankAggarwal09/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/IshankAggarwal09/DSA/tree/master/0706-design-hashmap) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/IshankAggarwal09/DSA/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/IshankAggarwal09/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -878,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0572-subtree-of-another-tree) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/IshankAggarwal09/DSA/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/IshankAggarwal09/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1184,4 +1189,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/IshankAggarwal09/DSA/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/IshankAggarwal09/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
