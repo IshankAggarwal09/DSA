@@ -1,12 +1,12 @@
 class Solution {
-    public int upperBound(List<Integer> arr, int target) {
+    public int upperBound(List<Integer> arr, int val) {
         int left = 0;
         int right = arr.size();
         while (left < right) {
             int mid = left + (right - left) / 2;
-            if (arr.get(mid) <= target) {
+            if (arr.get(mid) <= val) {
                 left = mid + 1;
-            } 
+            }
             else {
                 right = mid;
             }
@@ -31,7 +31,7 @@ class Solution {
                 int pos = upperBound(sorted1, nums[i]);
                 sorted1.add(pos, nums[i]);
             }
-            else if (greater2 > greater1) {
+            else if (greater1 < greater2) {
                 arr2.add(nums[i]);
                 int pos = upperBound(sorted2, nums[i]);
                 sorted2.add(pos, nums[i]);
