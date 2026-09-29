@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/IshankAggarwal09/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/IshankAggarwal09/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/IshankAggarwal09/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/IshankAggarwal09/DSA/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/IshankAggarwal09/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/IshankAggarwal09/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/IshankAggarwal09/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -976,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/IshankAggarwal09/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/IshankAggarwal09/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/IshankAggarwal09/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/IshankAggarwal09/DSA/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3433-count-mentions-per-user](https://github.com/IshankAggarwal09/DSA/tree/master/3433-count-mentions-per-user) |
 | [3498-reverse-degree-of-a-string](https://github.com/IshankAggarwal09/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/IshankAggarwal09/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -1077,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/IshankAggarwal09/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/IshankAggarwal09/DSA/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/IshankAggarwal09/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/IshankAggarwal09/DSA/tree/master/3525-find-x-value-of-array-ii) |
 ## Shortest Path
@@ -1166,4 +1169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/IshankAggarwal09/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/IshankAggarwal09/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/IshankAggarwal09/DSA/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 <!---LeetCode Topics End-->
