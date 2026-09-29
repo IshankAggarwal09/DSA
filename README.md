@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/IshankAggarwal09/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/IshankAggarwal09/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/IshankAggarwal09/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/IshankAggarwal09/DSA/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/IshankAggarwal09/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/IshankAggarwal09/DSA/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/IshankAggarwal09/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/IshankAggarwal09/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/IshankAggarwal09/DSA/tree/master/0706-design-hashmap) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/IshankAggarwal09/DSA/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -875,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0572-subtree-of-another-tree) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/IshankAggarwal09/DSA/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1177,4 +1180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/IshankAggarwal09/DSA/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/IshankAggarwal09/DSA/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 <!---LeetCode Topics End-->
