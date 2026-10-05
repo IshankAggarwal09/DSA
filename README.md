@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/IshankAggarwal09/DSA/tree/master/0696-count-binary-substrings) |
 | [0752-open-the-lock](https://github.com/IshankAggarwal09/DSA/tree/master/0752-open-the-lock) |
 | [0821-shortest-distance-to-a-character](https://github.com/IshankAggarwal09/DSA/tree/master/0821-shortest-distance-to-a-character) |
+| [0856-score-of-parentheses](https://github.com/IshankAggarwal09/DSA/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/IshankAggarwal09/DSA/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/IshankAggarwal09/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -859,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/IshankAggarwal09/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/IshankAggarwal09/DSA/tree/master/0682-baseball-game) |
 | [0853-car-fleet](https://github.com/IshankAggarwal09/DSA/tree/master/0853-car-fleet) |
+| [0856-score-of-parentheses](https://github.com/IshankAggarwal09/DSA/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/IshankAggarwal09/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/IshankAggarwal09/DSA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/IshankAggarwal09/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1188,6 +1190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/IshankAggarwal09/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/IshankAggarwal09/DSA/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/IshankAggarwal09/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/IshankAggarwal09/DSA/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/IshankAggarwal09/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/IshankAggarwal09/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/IshankAggarwal09/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
