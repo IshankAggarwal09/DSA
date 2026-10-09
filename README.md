@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/IshankAggarwal09/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/IshankAggarwal09/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/IshankAggarwal09/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/IshankAggarwal09/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/IshankAggarwal09/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/IshankAggarwal09/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/IshankAggarwal09/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/IshankAggarwal09/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/IshankAggarwal09/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/IshankAggarwal09/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/IshankAggarwal09/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/IshankAggarwal09/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/IshankAggarwal09/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/IshankAggarwal09/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/IshankAggarwal09/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/IshankAggarwal09/DSA/tree/master/0706-design-hashmap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/IshankAggarwal09/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/IshankAggarwal09/DSA/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/IshankAggarwal09/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Heap (Priority Queue)
@@ -939,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/IshankAggarwal09/DSA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/IshankAggarwal09/DSA/tree/master/0371-sum-of-two-integers) |
 | [1386-cinema-seat-allocation](https://github.com/IshankAggarwal09/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/IshankAggarwal09/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/IshankAggarwal09/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/IshankAggarwal09/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3133-minimum-array-end](https://github.com/IshankAggarwal09/DSA/tree/master/3133-minimum-array-end) |
@@ -1233,6 +1237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/IshankAggarwal09/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/IshankAggarwal09/DSA/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/IshankAggarwal09/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Range Minimum/Maximum Query
@@ -1247,4 +1252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/IshankAggarwal09/DSA/tree/master/0287-find-the-duplicate-number) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/IshankAggarwal09/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
