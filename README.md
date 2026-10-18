@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/IshankAggarwal09/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/IshankAggarwal09/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/IshankAggarwal09/DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/IshankAggarwal09/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/IshankAggarwal09/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/IshankAggarwal09/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/IshankAggarwal09/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0427-construct-quad-tree) |
 | [0912-sort-an-array](https://github.com/IshankAggarwal09/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/IshankAggarwal09/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/IshankAggarwal09/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Counting
 |  |
 | ------- |
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/IshankAggarwal09/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/IshankAggarwal09/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/IshankAggarwal09/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/IshankAggarwal09/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -835,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/IshankAggarwal09/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/IshankAggarwal09/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/IshankAggarwal09/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/IshankAggarwal09/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Dynamic Programming
@@ -866,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/IshankAggarwal09/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/IshankAggarwal09/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/IshankAggarwal09/DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/IshankAggarwal09/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/IshankAggarwal09/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/IshankAggarwal09/DSA/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/IshankAggarwal09/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -948,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/IshankAggarwal09/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/IshankAggarwal09/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -997,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/IshankAggarwal09/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/IshankAggarwal09/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/IshankAggarwal09/DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/IshankAggarwal09/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/IshankAggarwal09/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/IshankAggarwal09/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1872-stone-game-viii](https://github.com/IshankAggarwal09/DSA/tree/master/1872-stone-game-viii) |
@@ -1094,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/IshankAggarwal09/DSA/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/IshankAggarwal09/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/IshankAggarwal09/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/IshankAggarwal09/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/IshankAggarwal09/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1122,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/IshankAggarwal09/DSA/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/IshankAggarwal09/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/IshankAggarwal09/DSA/tree/master/1020-number-of-enclaves) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/IshankAggarwal09/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/IshankAggarwal09/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2709-greatest-common-divisor-traversal](https://github.com/IshankAggarwal09/DSA/tree/master/2709-greatest-common-divisor-traversal) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/IshankAggarwal09/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -1283,4 +1292,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/IshankAggarwal09/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/IshankAggarwal09/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/IshankAggarwal09/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
