@@ -1,25 +1,28 @@
 class Solution {
-    public void solve(int[] nums, int n, List<List<Integer>> ans, List<Integer> temp, int index, boolean[] freq) {
-        if (temp.size() == n) {
+    public void swap(int i, int j, int[] nums) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
+    }
+    public void solve(int[] nums, int n, List<List<Integer>> ans, int index) {
+        if (index == n) {
+            List<Integer> temp = new ArrayList<>();
+            for (int i=0; i<n; i++) {
+                temp.add(nums[i]);
+            }
             ans.add(new ArrayList<>(temp));
             return;
         }
-        for (int i=0; i<n; i++) {
-            if (!freq[i]) {
-                freq[i] = true;
-                temp.add(nums[i]);
-                solve(nums, n, ans, temp, i+1, freq);
-                freq[i] = false;
-                temp.remove(temp.size()-1);
-            }
+        for (int i=index; i<n; i++) {
+            swap(i, index, nums);
+            solve(nums, n, ans, index+1);
+            swap(i, index, nums);
         }
     }
     public List<List<Integer>> permute(int[] nums) {
         int n = nums.length;
         List<List<Integer>> ans = new ArrayList<>();
-        List<Integer> temp = new ArrayList<>();
-        boolean[] freq = new boolean[n];
-        solve(nums, n, ans, temp, 0, freq);
+        solve(nums, n, ans, 0);
         return ans;
     }
 }
