@@ -1,21 +1,13 @@
 class Solution {
-    public int solve(int[] nums, int n, int index, List<Integer> temp) {
-        if (index == n) {
-            int xor = 0;
-            for (int i=0; i<temp.size(); i++) {
-                xor = xor ^ temp.get(i);
-            } 
+    public int solve(int[] nums, int index, int xor) {
+        if (index == nums.length) {
             return xor;
         }
-        temp.add(nums[index]);
-        int include = solve(nums, n, index+1, temp);
-        temp.remove(temp.size()-1);
-        int exclude = solve(nums, n, index+1, temp);
+        int include = solve(nums, index+1, xor^nums[index]);
+        int exclude = solve(nums, index+1, xor);
         return include + exclude;
     }
     public int subsetXORSum(int[] nums) {
-        int n = nums.length;
-        List<Integer> temp = new ArrayList<>();
-        return solve(nums, n, 0, temp);
+        return solve(nums, 0, 0);
     }
 }
