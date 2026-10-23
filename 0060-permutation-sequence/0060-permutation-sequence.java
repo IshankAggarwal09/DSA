@@ -7,8 +7,8 @@ class Solution {
             numbers.add(i);
         }
         numbers.add(n);
-        String ans = "";
         k = k - 1;
+        String ans = "";
         while (true) {
             ans = ans + numbers.get(k / fact);
             numbers.remove(k / fact);
