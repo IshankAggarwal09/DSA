@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/IshankAggarwal09/DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/IshankAggarwal09/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/IshankAggarwal09/DSA/tree/master/2337-move-pieces-to-obtain-a-string) |
+| [2409-count-days-spent-together](https://github.com/IshankAggarwal09/DSA/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/IshankAggarwal09/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/IshankAggarwal09/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/IshankAggarwal09/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -1023,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/IshankAggarwal09/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/IshankAggarwal09/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/IshankAggarwal09/DSA/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/IshankAggarwal09/DSA/tree/master/2409-count-days-spent-together) |
 | [2709-greatest-common-divisor-traversal](https://github.com/IshankAggarwal09/DSA/tree/master/2709-greatest-common-divisor-traversal) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/IshankAggarwal09/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/IshankAggarwal09/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
