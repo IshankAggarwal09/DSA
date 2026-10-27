@@ -1,5 +1,5 @@
 class Solution {
-    public boolean isPalindrome(String s, int start, int end) {
+    public boolean isPalindrome(int start, int end, String s) {
         while (start <= end) {
             if (s.charAt(start++) != s.charAt(end--)) {
                 return false;
@@ -7,15 +7,15 @@ class Solution {
         }
         return true;
     }
-    public void solve(String s, List<List<String>> ans, List<String> temp, int index) {
-        if (index == s.length()) {
+    public void solve(String s, List<List<String>> ans, List<String> temp, int n, int index) {
+        if (index == n) {
             ans.add(new ArrayList<>(temp));
             return;
         }
-        for (int i=index; i<s.length(); i++) {
-            if (isPalindrome(s, index, i)) {
+        for (int i=index; i<n; i++) {
+            if (isPalindrome(index, i, s)) {
                 temp.add(s.substring(index, i+1));
-                solve(s, ans, temp, i+1);
+                solve(s, ans, temp, n, i+1);
                 temp.remove(temp.size()-1);
             }
         }
@@ -23,7 +23,8 @@ class Solution {
     public List<List<String>> partition(String s) {
         List<List<String>> ans = new ArrayList<>();
         List<String> temp = new ArrayList<>();
-        solve(s, ans, temp, 0);
+        int n = s.length();
+        solve(s, ans, temp, n, 0);
         return ans;
     }
 }
