@@ -1,13 +1,13 @@
 class Solution {
-    public void solve(int n, int k, List<List<Integer>> ans, List<Integer> temp, int start) {
+    public void solve(int n, int k, List<List<Integer>> ans, List<Integer> temp, int index) {
         if (temp.size() == k) {
             ans.add(new ArrayList<>(temp));
             return;
         }
-        if (start > n) {
+        if (index > n) {
             return;
         }
-        for (int i=start; i<=n; i++) {
+        for (int i=index; i<=n; i++) {
             temp.add(i);
             solve(n, k, ans, temp, i+1);
             temp.remove(temp.size()-1);
