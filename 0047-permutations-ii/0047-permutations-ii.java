@@ -1,28 +1,39 @@
 class Solution {
-    public void helper(int[] nums, boolean[] used, List<List<Integer>> ans, List<Integer> ds) {
-        if (ds.size() == nums.length) {
-            ans.add(new ArrayList<>(ds));
+    public void swap(int i, int j, int[] nums) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
+    }
+    public void solve(int[] nums, int n, List<List<Integer>> ans, int index) {
+        if (index == n) {
+            List<Integer> temp = new ArrayList<>();
+            for (int i=0; i<n; i++) {
+                temp.add(nums[i]);
+            }
+            ans.add(new ArrayList<>(temp));
             return;
         }
-        for (int i=0; i<nums.length; i++) {
-            if (used[i]) {
+        for (int i=index; i<n; i++) {
+            boolean duplicate = false;
+            for (int j=index; j<i; j++) {
+                if (nums[j] == nums[i]) {
+                    duplicate = true;
+                    break;
+                }
+            }
+            if (duplicate) {
                 continue;
             }
-            if (i > 0 && nums[i] == nums[i-1] && !used[i-1]) {
-                continue;
-            }
-            used[i] = true;
-            ds.add(nums[i]);
-            helper(nums, used, ans, ds);
-            ds.remove(ds.size() - 1);
-            used[i] = false;
+            swap(i, index, nums);
+            solve(nums, n, ans, index+1);
+            swap(i, index, nums);
         }
     }
     public List<List<Integer>> permuteUnique(int[] nums) {
-        Arrays.sort(nums);
+        int n = nums.length;
         List<List<Integer>> ans = new ArrayList<>();
-        List<Integer> ds = new ArrayList<>();
-        helper(nums, new boolean[nums.length], ans, ds);
+        Arrays.sort(nums);
+        solve(nums, n, ans, 0);
         return ans;
     }
 }
