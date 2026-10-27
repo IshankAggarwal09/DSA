@@ -1,5 +1,5 @@
 class Solution {
-    public void solve(int[] candidates, int target, int n, List<List<Integer>> ans, List<Integer> temp, int index) {
+    public void solve(int[] candidates, int target, List<List<Integer>> ans, List<Integer> temp, int n, int index) {
         if (target == 0) {
             ans.add(new ArrayList<>(temp));
             return;
@@ -8,20 +8,20 @@ class Solution {
             if (i > index && candidates[i] == candidates[i-1]) {
                 continue;
             }
-            if (candidates[index] > target) {
+            if (candidates[i] > target) {
                 break;
             }
             temp.add(candidates[i]);
-            solve(candidates, target-candidates[i], n, ans, temp, i+1);
+            solve(candidates, target-candidates[i], ans, temp, n, i+1);
             temp.remove(temp.size()-1);
         }
     }
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
-        int n = candidates.length;
         List<List<Integer>> ans = new ArrayList<>();
         List<Integer> temp = new ArrayList<>();
+        int n = candidates.length;
         Arrays.sort(candidates);
-        solve(candidates, target, n, ans, temp, 0);
+        solve(candidates, target, ans, temp, n, 0);
         return ans;
     }
 }
