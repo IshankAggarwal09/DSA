@@ -1,10 +1,10 @@
 class Solution {
-    public int solve(int[] nums, int n, int index, int xor) {
+    public int solve(int[] nums, int n, int xor, int index) {
         if (index == n) {
             return xor;
         }
-        int include = solve(nums, n, index+1, xor^nums[index]);
-        int exclude = solve(nums, n, index+1, xor);
+        int include = solve(nums, n, xor^nums[index], index+1);
+        int exclude = solve(nums, n, xor, index+1);
         return include + exclude;
     }
     public int subsetXORSum(int[] nums) {
