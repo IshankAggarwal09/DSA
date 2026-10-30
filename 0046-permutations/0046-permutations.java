@@ -1,5 +1,5 @@
 class Solution {
-    public void swap(int i, int j, int[] nums) {
+    public void swap(int[] nums, int i, int j) {
         int temp = nums[i];
         nums[i] = nums[j];
         nums[j] = temp;
@@ -14,14 +14,14 @@ class Solution {
             return;
         }
         for (int i=index; i<n; i++) {
-            swap(i, index, nums);
+            swap(nums, i, index);
             solve(nums, n, ans, index+1);
-            swap(i, index, nums);
+            swap(nums, i, index);
         }
     }
     public List<List<Integer>> permute(int[] nums) {
-        int n = nums.length;
         List<List<Integer>> ans = new ArrayList<>();
+        int n = nums.length;
         solve(nums, n, ans, 0);
         return ans;
     }
