@@ -4,7 +4,7 @@ class Solution {
         ch[col] = c;
         board.set(row, new String(ch));
     }
-    public void solve(List<List<String>> ans, List<String> board, int n, int col, int[] leftRow, int[] upperDiagonal, int[] lowerDiagonal) {
+    public void solve(int n, List<List<String>> ans, List<String> board, int[] leftRow, int[] lowerDiagonal, int[] upperDiagonal, int col) {
         if (col == n) {
             ans.add(new ArrayList<>(board));
             return;
@@ -13,27 +13,27 @@ class Solution {
             if (leftRow[row] == 0 && lowerDiagonal[row+col] == 0 && upperDiagonal[n-1+col-row] == 0) {
                 setCell(board, row, col, 'Q');
                 leftRow[row] = 1;
-                lowerDiagonal[row + col] = 1;
-                upperDiagonal[n-1 + col - row] = 1;
-                solve(ans, board, n, col+1, leftRow, upperDiagonal, lowerDiagonal);
+                lowerDiagonal[row+col] = 1;
+                upperDiagonal[n-1+col-row] = 1;
+                solve(n, ans, board, leftRow, lowerDiagonal, upperDiagonal, col+1);
                 setCell(board, row, col, '.');
                 leftRow[row] = 0;
-                lowerDiagonal[row + col] = 0;
-                upperDiagonal[n-1 + col - row] = 0;
+                lowerDiagonal[row+col] = 0;
+                upperDiagonal[n-1+col-row] = 0;
             }
         }
     }
     public List<List<String>> solveNQueens(int n) {
         List<List<String>> ans = new ArrayList<>();
-        List<String> board = new ArrayList<>();
+        List<String> board = new ArrayList();
         String s = ".".repeat(n);
         for (int i=0; i<n; i++) {
             board.add(s);
         }
         int[] leftRow = new int[n];
-        int[] upperDiagonal = new int[2*n-1];
         int[] lowerDiagonal = new int[2*n-1];
-        solve(ans, board, n, 0, leftRow, upperDiagonal, lowerDiagonal);
+        int[] upperDiagonal = new int[2*n-1];
+        solve(n, ans, board, leftRow, lowerDiagonal, upperDiagonal, 0);
         return ans;
     }
 }
