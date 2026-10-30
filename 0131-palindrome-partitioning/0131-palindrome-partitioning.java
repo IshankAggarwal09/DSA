@@ -7,7 +7,7 @@ class Solution {
         }
         return true;
     }
-    public void solve(String s, List<List<String>> ans, List<String> temp, int n, int index) {
+    public void solve(String s, int n, List<List<String>> ans, List<String> temp, int index) {
         if (index == n) {
             ans.add(new ArrayList<>(temp));
             return;
@@ -15,7 +15,7 @@ class Solution {
         for (int i=index; i<n; i++) {
             if (isPalindrome(index, i, s)) {
                 temp.add(s.substring(index, i+1));
-                solve(s, ans, temp, n, i+1);
+                solve(s, n, ans, temp, i+1);
                 temp.remove(temp.size()-1);
             }
         }
@@ -24,7 +24,7 @@ class Solution {
         List<List<String>> ans = new ArrayList<>();
         List<String> temp = new ArrayList<>();
         int n = s.length();
-        solve(s, ans, temp, n, 0);
+        solve(s, n, ans, temp, 0);
         return ans;
     }
 }
