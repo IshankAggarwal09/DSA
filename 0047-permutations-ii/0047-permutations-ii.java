@@ -1,10 +1,10 @@
 class Solution {
-    public void swap(int i, int j, int[] nums) {
+    public void swap(int[] nums, int i, int j) {
         int temp = nums[i];
         nums[i] = nums[j];
         nums[j] = temp;
     }
-    public void solve(int[] nums, List<List<Integer>> ans, int n, int index) {
+    public void solve(int[] nums, int n, List<List<Integer>> ans, int index) {
         if (index == n) {
             List<Integer> temp = new ArrayList<>();
             for (int i=0; i<n; i++) {
@@ -24,15 +24,15 @@ class Solution {
             if (duplicate) {
                 continue;
             }
-            swap(i, index, nums);
-            solve(nums, ans, n, index+1);
-            swap(i, index, nums);
+            swap(nums, i, index);
+            solve(nums, n, ans, index+1);
+            swap(nums, i, index);
         }
     }
     public List<List<Integer>> permuteUnique(int[] nums) {
         List<List<Integer>> ans = new ArrayList<>();
         int n = nums.length;
-        solve(nums, ans, n, 0);
+        solve(nums, n, ans, 0);
         return ans;
     }
 }
