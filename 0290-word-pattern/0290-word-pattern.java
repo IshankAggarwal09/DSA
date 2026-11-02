@@ -2,7 +2,7 @@ class Solution {
     public boolean wordPattern(String pattern, String s) {
         String[] str = s.split(" ");
         int n = pattern.length();
-        if (n != str.length) {
+        if (str.length != n) {
             return false;
         }
         Map<Character, String> map1 = new HashMap<>();
