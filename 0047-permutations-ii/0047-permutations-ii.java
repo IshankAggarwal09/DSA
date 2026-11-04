@@ -4,7 +4,7 @@ class Solution {
         nums[i] = nums[j];
         nums[j] = temp;
     }
-    public void solve(int[] nums, int n, List<List<Integer>> ans, int index) {
+    public void solve(int[] nums, List<List<Integer>> ans, int n, int index) {
         if (index == n) {
             List<Integer> temp = new ArrayList<>();
             for (int i=0; i<n; i++) {
@@ -25,14 +25,14 @@ class Solution {
                 continue;
             }
             swap(nums, i, index);
-            solve(nums, n, ans, index+1);
+            solve(nums, ans, n, index+1);
             swap(nums, i, index);
         }
     }
     public List<List<Integer>> permuteUnique(int[] nums) {
         List<List<Integer>> ans = new ArrayList<>();
         int n = nums.length;
-        solve(nums, n, ans, 0);
+        solve(nums, ans, n, 0);
         return ans;
     }
 }
