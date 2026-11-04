@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/IshankAggarwal09/DSA/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/IshankAggarwal09/DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/IshankAggarwal09/DSA/tree/master/0486-predict-the-winner) |
+| [0523-continuous-subarray-sum](https://github.com/IshankAggarwal09/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/IshankAggarwal09/DSA/tree/master/0542-01-matrix) |
 | [0554-brick-wall](https://github.com/IshankAggarwal09/DSA/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/IshankAggarwal09/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/IshankAggarwal09/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0454-4sum-ii) |
 | [0460-lfu-cache](https://github.com/IshankAggarwal09/DSA/tree/master/0460-lfu-cache) |
+| [0523-continuous-subarray-sum](https://github.com/IshankAggarwal09/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0554-brick-wall](https://github.com/IshankAggarwal09/DSA/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/IshankAggarwal09/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/IshankAggarwal09/DSA/tree/master/0567-permutation-in-string) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/IshankAggarwal09/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/IshankAggarwal09/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/IshankAggarwal09/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/IshankAggarwal09/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/IshankAggarwal09/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/IshankAggarwal09/DSA/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/IshankAggarwal09/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -1046,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/IshankAggarwal09/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/IshankAggarwal09/DSA/tree/master/0486-predict-the-winner) |
+| [0523-continuous-subarray-sum](https://github.com/IshankAggarwal09/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IshankAggarwal09/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/IshankAggarwal09/DSA/tree/master/0836-rectangle-overlap) |
 | [0869-reordered-power-of-2](https://github.com/IshankAggarwal09/DSA/tree/master/0869-reordered-power-of-2) |
@@ -1352,6 +1356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/IshankAggarwal09/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0523-continuous-subarray-sum](https://github.com/IshankAggarwal09/DSA/tree/master/0523-continuous-subarray-sum) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
