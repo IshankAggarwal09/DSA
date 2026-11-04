@@ -7,7 +7,7 @@ class RandomizedSet {
         list = new ArrayList<>();
         map = new HashMap<>();
     }
-    
+
     public boolean search(int val) {
         return map.containsKey(val);
     }
@@ -17,16 +17,17 @@ class RandomizedSet {
             return false;
         }
         list.add(val);
-        map.put(val, list.size()-1);
+        int index = list.size() - 1;
+        map.put(val, index);
         return true;
     }
-
+    
     public boolean remove(int val) {
         if (!search(val)) {
             return false;
         }
         int index = map.get(val);
-        list.set(index, list.get(list.size()-1));
+        list.set(index, list.get(list.size() - 1));
         map.put(list.get(index), index);
         list.remove(list.size()-1);
         map.remove(val);
