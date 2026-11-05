@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/IshankAggarwal09/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/IshankAggarwal09/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/IshankAggarwal09/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/IshankAggarwal09/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/IshankAggarwal09/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/IshankAggarwal09/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/IshankAggarwal09/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/IshankAggarwal09/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/IshankAggarwal09/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/IshankAggarwal09/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/IshankAggarwal09/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/IshankAggarwal09/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/IshankAggarwal09/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/IshankAggarwal09/DSA/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/IshankAggarwal09/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/IshankAggarwal09/DSA/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/IshankAggarwal09/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/IshankAggarwal09/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/IshankAggarwal09/DSA/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1754-largest-merge-of-two-strings](https://github.com/IshankAggarwal09/DSA/tree/master/1754-largest-merge-of-two-strings) |
 | [1768-merge-strings-alternately](https://github.com/IshankAggarwal09/DSA/tree/master/1768-merge-strings-alternately) |
@@ -748,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/IshankAggarwal09/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/IshankAggarwal09/DSA/tree/master/0658-find-k-closest-elements) |
 | [1095-find-in-mountain-array](https://github.com/IshankAggarwal09/DSA/tree/master/1095-find-in-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/IshankAggarwal09/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/IshankAggarwal09/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/IshankAggarwal09/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/IshankAggarwal09/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
