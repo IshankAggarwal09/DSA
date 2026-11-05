@@ -4,10 +4,10 @@ class Solution {
         for (int i=0; i<256; i++) {
             freq[i] = -1;
         }
+        int n = s.length();
         int maxLen = 0;
         int left = 0;
         int right = 0;
-        int n = s.length();
         while (right < n) {
             if (freq[s.charAt(right)] != -1) {
                 if (freq[s.charAt(right)] >= left) {
