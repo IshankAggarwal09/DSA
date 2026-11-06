@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/IshankAggarwal09/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/IshankAggarwal09/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/IshankAggarwal09/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/IshankAggarwal09/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2460-apply-operations-to-an-array](https://github.com/IshankAggarwal09/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/IshankAggarwal09/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/IshankAggarwal09/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/IshankAggarwal09/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/IshankAggarwal09/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/IshankAggarwal09/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/IshankAggarwal09/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2747-count-zero-request-servers](https://github.com/IshankAggarwal09/DSA/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/IshankAggarwal09/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/IshankAggarwal09/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -960,10 +962,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/IshankAggarwal09/DSA/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/IshankAggarwal09/DSA/tree/master/0649-dota2-senate) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/IshankAggarwal09/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/IshankAggarwal09/DSA/tree/master/0239-sliding-window-maximum) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/IshankAggarwal09/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Stack
 |  |
 | ------- |
