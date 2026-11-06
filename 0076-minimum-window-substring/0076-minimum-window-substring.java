@@ -1,32 +1,38 @@
 class Solution {
     public String minWindow(String s, String t) {
+        int n = s.length();
+        int m = t.length();
+        if (m > n) {
+            return "";
+        }
         int[] freq = new int[256];
+        for (char c : t.toCharArray()) {
+            freq[c]++;
+        }
+        int requiredCount = m;
         int left = 0;
         int right = 0;
-        int count = 0;
-        int minLen = Integer.MAX_VALUE;
+        int windowSize = Integer.MAX_VALUE;
         int sIndex = -1;
-        for (int i=0; i<t.length(); i++) {
-            freq[t.charAt(i)]++;
-        }
-        while (right < s.length()) {
-            if (freq[s.charAt(right)] > 0) {
-                count = count + 1;
+        while (right < n) {
+            char ch = s.charAt(right);
+            if (freq[ch] > 0) {
+                requiredCount--;
             }
-            freq[s.charAt(right)]--;
-            while (count == t.length()) {
-                if (minLen > right-left+1) {
-                    minLen = right-left+1;
+            freq[ch]--;
+            while (requiredCount == 0) {
+                if (windowSize > right - left + 1) {
+                    windowSize = right - left + 1;
                     sIndex = left;
                 }
                 freq[s.charAt(left)]++;
                 if (freq[s.charAt(left)] > 0) {
-                    count = count - 1;
+                    requiredCount++;
                 }
                 left++;
             }
             right++;
         }
-        return sIndex == -1 ? "" : s.substring(sIndex, sIndex+minLen);
+        return windowSize == Integer.MAX_VALUE ? "" : s.substring(sIndex, sIndex + windowSize);
     }
 }
