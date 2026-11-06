@@ -3,13 +3,14 @@ class Solution {
         int minLenWin = Integer.MAX_VALUE;
         int left = 0;
         int right = 0;
-        int currSum = 0;
-        while (right < nums.length) {
-            currSum += nums[right];
+        int n = nums.length;
+        int sum = 0;
+        while (right < n) {
+            sum += nums[right];
             right++;
-            while (currSum >= target) {
-                minLenWin = Math.min(minLenWin, right-left);
-                currSum -= nums[left];
+            while (sum >= target) {
+                minLenWin = Math.min(minLenWin, right - left);
+                sum -= nums[left];
                 left++;
             }
         }
