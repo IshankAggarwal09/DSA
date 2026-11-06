@@ -7,12 +7,12 @@ class Solution {
         int sum = 0;
         while (right < n) {
             sum += nums[right];
-            right++;
             while (sum >= target) {
-                minLenWin = Math.min(minLenWin, right - left);
+                minLenWin = Math.min(minLenWin, right - left + 1);
                 sum -= nums[left];
                 left++;
             }
+            right++;
         }
         return minLenWin == Integer.MAX_VALUE ? 0 : minLenWin;
     }
