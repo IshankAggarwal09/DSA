@@ -3,32 +3,12 @@ class Solution {
         int n = answerKey.length();
         int left = 0;
         int right = 0;
-        int countF = 0;
         int answer = 0;
+        Map<Character, Integer> map = new HashMap<>();
         while (right < n) {
-            if (answerKey.charAt(right) == 'F') {
-                countF++;
-            }
-            while (countF > k) {
-                if (answerKey.charAt(left) == 'F') {
-                    countF--;
-                }
-                left++;
-            }
-            answer = Math.max(answer, right - left + 1);
-            right++;
-        }
-        left = 0;
-        right = 0;
-        int countT = 0;
-        while (right < n) {
-            if (answerKey.charAt(right) == 'T') {
-                countT++;
-            }
-            while (countT > k) {
-                if (answerKey.charAt(left) == 'T') {
-                    countT--;
-                }
+            map.put(answerKey.charAt(right), map.getOrDefault(answerKey.charAt(right), 0) + 1);
+            while (Math.min(map.getOrDefault('T', 0), map.getOrDefault('F', 0)) > k) {
+                map.put(answerKey.charAt(left), map.get(answerKey.charAt(left))-1);
                 left++;
             }
             answer = Math.max(answer, right - left + 1);
