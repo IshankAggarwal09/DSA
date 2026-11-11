@@ -11,10 +11,10 @@ class Solution {
         }
         for (int row=0; row<n; row++) {
             if (leftRow[row] == 0 && lowerDiagonal[row+col] == 0 && upperDiagonal[n-1+col-row] == 0) {
-                setCell(board, row, col, 'Q');
                 leftRow[row] = 1;
                 lowerDiagonal[row+col] = 1;
                 upperDiagonal[n-1+col-row] = 1;
+                setCell(board, row, col, 'Q');
                 solve(n, ans, board, leftRow, lowerDiagonal, upperDiagonal, col+1);
                 setCell(board, row, col, '.');
                 leftRow[row] = 0;
@@ -25,8 +25,8 @@ class Solution {
     }
     public List<List<String>> solveNQueens(int n) {
         List<List<String>> ans = new ArrayList<>();
-        List<String> board = new ArrayList();
         String s = ".".repeat(n);
+        List<String> board = new ArrayList<>();
         for (int i=0; i<n; i++) {
             board.add(s);
         }
