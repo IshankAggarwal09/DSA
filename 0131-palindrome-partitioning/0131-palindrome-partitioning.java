@@ -1,5 +1,5 @@
 class Solution {
-    public boolean isPalindrome(int start, int end, String s) {
+    public boolean isPalindrome(String s, int start, int end) {
         while (start <= end) {
             if (s.charAt(start++) != s.charAt(end--)) {
                 return false;
@@ -13,7 +13,7 @@ class Solution {
             return;
         }
         for (int i=index; i<n; i++) {
-            if (isPalindrome(index, i, s)) {
+            if (isPalindrome(s, index, i)) {
                 temp.add(s.substring(index, i+1));
                 solve(s, n, ans, temp, i+1);
                 temp.remove(temp.size()-1);
