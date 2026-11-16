@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/IshankAggarwal09/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/IshankAggarwal09/DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/IshankAggarwal09/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/IshankAggarwal09/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/IshankAggarwal09/DSA/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2409-count-days-spent-together](https://github.com/IshankAggarwal09/DSA/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/IshankAggarwal09/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -1176,6 +1177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2105-watering-plants-ii](https://github.com/IshankAggarwal09/DSA/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/IshankAggarwal09/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/IshankAggarwal09/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/IshankAggarwal09/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/IshankAggarwal09/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/IshankAggarwal09/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/IshankAggarwal09/DSA/tree/master/3072-distribute-elements-into-two-arrays-ii) |
