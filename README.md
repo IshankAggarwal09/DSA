@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/IshankAggarwal09/DSA/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/IshankAggarwal09/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/IshankAggarwal09/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/IshankAggarwal09/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2938-separate-black-and-white-balls](https://github.com/IshankAggarwal09/DSA/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/IshankAggarwal09/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/IshankAggarwal09/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
