@@ -1,12 +1,18 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        int n = nums.length;
-        Set<Integer> set = new HashSet<>();
+        // Set contain only unique elements
+        HashSet<Integer> set = new HashSet<>();
+
+        // Iterate through the array
         for (int num : nums) {
+
+            // If the set already contains the current number then duplicate is found
             if (!set.add(num)) {
                 return true;
             }
         }
+
+        //Otherwise, no duplicate is found
         return false;
     }
 }
