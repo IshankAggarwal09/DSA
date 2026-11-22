@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/IshankAggarwal09/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/IshankAggarwal09/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/IshankAggarwal09/DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/IshankAggarwal09/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/IshankAggarwal09/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/IshankAggarwal09/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/IshankAggarwal09/DSA/tree/master/2337-move-pieces-to-obtain-a-string) |
