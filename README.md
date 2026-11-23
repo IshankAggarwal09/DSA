@@ -1474,4 +1474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/IshankAggarwal09/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
