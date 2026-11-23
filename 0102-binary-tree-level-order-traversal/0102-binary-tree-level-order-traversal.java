@@ -25,13 +25,14 @@ class Solution {
             int level = queue.size();
             List<Integer> temp = new ArrayList<>();
             for (int i=0; i<level; i++) {
-                if (queue.peek().left != null) {
-                    queue.add(queue.peek().left);
+                TreeNode curr = queue.poll();
+                if (curr.left != null) {
+                    queue.add(curr.left);
                 }
-                if (queue.peek().right != null) {
-                    queue.add(queue.peek().right);
+                if (curr.right != null) {
+                    queue.add(curr.right);
                 }
-                temp.add(queue.poll().val);
+                temp.add(curr.val);
             }
             ans.add(new ArrayList<>(temp));
         }
