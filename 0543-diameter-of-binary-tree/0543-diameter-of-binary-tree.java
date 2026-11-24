@@ -13,30 +13,19 @@
  *     }
  * }
  */
-class Pair {
-    int first;
-    int second;
-    Pair(int first, int second) {
-        this.first = first;
-        this.second = second;
-    }
-}
 class Solution {
-    public Pair solve(TreeNode root) {
+    public int solve(TreeNode root, int[] diameter) {
         if (root == null) {
-            return new Pair(0, 0);
+            return 0;
         }
-        Pair left = solve(root.left);
-        Pair right = solve(root.right);
-        int option1 = left.first;
-        int option2 = right.first;
-        int option3 = left.second + right.second;
-        int maxDiameter = Math.max(option1, Math.max(option2, option3));
-        int maxHeight = Math.max(left.second, right.second) + 1;
-        return new Pair(maxDiameter, maxHeight);
-
+        int lh = solve(root.left, diameter);
+        int rh = solve(root.right, diameter);
+        diameter[0] = Math.max(diameter[0], lh + rh);
+        return Math.max(lh, rh) + 1;
     }
     public int diameterOfBinaryTree(TreeNode root) {
-        return solve(root).first;
+        int[] diameter = new int[1];
+        solve(root, diameter);
+        return diameter[0];
     }
 }
