@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/IshankAggarwal09/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/IshankAggarwal09/DSA/tree/master/0706-design-hashmap) |
 | [0752-open-the-lock](https://github.com/IshankAggarwal09/DSA/tree/master/0752-open-the-lock) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0869-reordered-power-of-2](https://github.com/IshankAggarwal09/DSA/tree/master/0869-reordered-power-of-2) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/IshankAggarwal09/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -845,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/IshankAggarwal09/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -893,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/IshankAggarwal09/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IshankAggarwal09/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/IshankAggarwal09/DSA/tree/master/0802-find-eventual-safe-states) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/IshankAggarwal09/DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/IshankAggarwal09/DSA/tree/master/1254-number-of-closed-islands) |
@@ -939,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/IshankAggarwal09/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IshankAggarwal09/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/IshankAggarwal09/DSA/tree/master/0802-find-eventual-safe-states) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/IshankAggarwal09/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/IshankAggarwal09/DSA/tree/master/1020-number-of-enclaves) |
@@ -981,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/IshankAggarwal09/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
