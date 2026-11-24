@@ -13,29 +13,19 @@
  *     }
  * }
  */
-class Pair {
-    int first;
-    int second;
-    Pair(int first, int second) {
-        this.first = first;
-        this.second = second;
-    }
-}
 class Solution {
-    public Pair solve(TreeNode root) {
+    public int solve(TreeNode root, int[] maxSum) {
         if (root == null) {
-            return new Pair(0, Integer.MIN_VALUE);
+            return 0;
         }
-        Pair left = solve(root.left);
-        Pair right = solve(root.right);
-        int leftGain = Math.max(0, left.first);
-        int rightGain = Math.max(0, right.first);
-        int throughRoot = root.val + leftGain + rightGain;
-        int maxDown = Math.max(leftGain, rightGain) + root.val;
-        int maxPath = Math.max(throughRoot, Math.max(left.second, right.second));
-        return new Pair(maxDown, maxPath);
+        int leftSum = Math.max(0, solve(root.left, maxSum));
+        int rightSum = Math.max(0, solve(root.right, maxSum));
+        maxSum[0] = Math.max(maxSum[0], leftSum + rightSum + root.val);
+        return Math.max(leftSum, rightSum) + root.val;
     }
     public int maxPathSum(TreeNode root) {
-        return solve(root).second;
+        int[] maxSum = new int[]{Integer.MIN_VALUE};
+        solve(root, maxSum);
+        return maxSum[0];
     }
 }
