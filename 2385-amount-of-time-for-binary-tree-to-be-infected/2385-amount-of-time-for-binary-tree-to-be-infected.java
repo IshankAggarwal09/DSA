@@ -14,56 +14,56 @@
  * }
  */
 class Solution {
-    public TreeNode parentTrack(TreeNode root, Map<TreeNode, TreeNode> parent, int start) {
-        Queue<TreeNode> q = new LinkedList<>();
-        q.offer(root);
+    public TreeNode markParent(TreeNode root, Map<TreeNode, TreeNode> parentTrack, int start) {
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(root);
         TreeNode temp = null;
-        while (!q.isEmpty()) {
-            TreeNode node = q.poll();
+        while (!queue.isEmpty()) {
+            TreeNode node = queue.poll();
             if (node.val == start) {
                 temp = node;
             }
             if (node.left != null) {
-                q.offer(node.left);
-                parent.put(node.left, node);
+                parentTrack.put(node.left, node);
+                queue.offer(node.left);
             }
             if (node.right != null) {
-                q.offer(node.right);
-                parent.put(node.right, node);
+                parentTrack.put(node.right, node);
+                queue.offer(node.right);
             }
         }
         return temp;
     }
     public int amountOfTime(TreeNode root, int start) {
-        Map<TreeNode, TreeNode> parent = new HashMap<>();
-        TreeNode target = parentTrack(root, parent, start);
-        Queue<TreeNode> q = new LinkedList<>();
+        Map<TreeNode, TreeNode> parentTrack = new HashMap<>();
+        TreeNode target = markParent(root, parentTrack, start);
+        Queue<TreeNode> queue = new LinkedList<>();
         Map<TreeNode, Boolean> visited = new HashMap<>();
-        q.offer(target);
+        queue.offer(target);
         visited.put(target, true);
         int time = 0;
-        while (!q.isEmpty()) {
-            int size = q.size();
-            boolean burned = false;
+        while (!queue.isEmpty()) {
+            int size = queue.size();
+            boolean infected = false;
             for (int i=0; i<size; i++) {
-                TreeNode node = q.poll();
+                TreeNode node = queue.poll();
                 if (node.left != null && visited.get(node.left) == null) {
-                    q.offer(node.left);
+                    queue.offer(node.left);
                     visited.put(node.left, true);
-                    burned = true;
+                    infected = true;
                 }
                 if (node.right != null && visited.get(node.right) == null) {
-                    q.offer(node.right);
+                    queue.offer(node.right);
                     visited.put(node.right, true);
-                    burned = true;
+                    infected = true;
                 }
-                if (parent.get(node) != null && visited.get(parent.get(node)) == null) {
-                    q.offer(parent.get(node));
-                    visited.put(parent.get(node), true);
-                    burned = true;
+                if (parentTrack.get(node) != null && visited.get(parentTrack.get(node)) == null) {
+                    queue.offer(parentTrack.get(node));
+                    visited.put(parentTrack.get(node), true);
+                    infected = true;
                 }
             }
-            if (burned) {
+            if (infected) {
                 time++;
             }
         }
