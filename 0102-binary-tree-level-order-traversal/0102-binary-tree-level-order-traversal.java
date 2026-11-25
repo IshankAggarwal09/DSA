@@ -25,16 +25,16 @@ class Solution {
             int level = queue.size();
             List<Integer> temp = new ArrayList<>();
             for (int i=0; i<level; i++) {
-                TreeNode curr = queue.poll();
-                if (curr.left != null) {
-                    queue.offer(curr.left);
+                TreeNode node = queue.poll();
+                if (node.left != null) {
+                    queue.offer(node.left);
                 }
-                if (curr.right != null) {
-                    queue.offer(curr.right);
+                if (node.right != null) {
+                    queue.offer(node.right);
                 }
-                temp.add(curr.val);
+                temp.add(node.val);
             }
-            ans.add(new ArrayList<>(temp));
+            ans.add(temp);
         }
         return ans;
     }
