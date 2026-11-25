@@ -26,15 +26,15 @@ class Solution {
             int level = queue.size();
             Integer[] temp = new Integer[level];
             for (int i=0; i<level; i++) {
-                TreeNode curr = queue.poll();
-                if (curr.left != null) {
-                    queue.offer(curr.left);
+                TreeNode node = queue.poll();
+                if (node.left != null) {
+                    queue.offer(node.left);
                 }
-                if (curr.right != null) {
-                    queue.offer(curr.right);
+                if (node.right != null) {
+                    queue.offer(node.right);
                 }
                 int index = leftToRight ? i : level - 1 - i;
-                temp[index] = curr.val;
+                temp[index] = node.val;
             }
             ans.add(Arrays.asList(temp));
             leftToRight = !leftToRight;
