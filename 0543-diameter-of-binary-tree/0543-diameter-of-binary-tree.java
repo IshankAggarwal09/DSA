@@ -21,7 +21,7 @@ class Solution {
         int lh = solve(root.left, diameter);
         int rh = solve(root.right, diameter);
         diameter[0] = Math.max(diameter[0], lh + rh);
-        return Math.max(lh, rh) + 1;
+        return 1 + Math.max(lh, rh);
     }
     public int diameterOfBinaryTree(TreeNode root) {
         int[] diameter = new int[1];
