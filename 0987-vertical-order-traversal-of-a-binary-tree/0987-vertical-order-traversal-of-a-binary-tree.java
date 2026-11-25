@@ -29,9 +29,9 @@ class Solution {
         if (root == null) {
             return ans;
         }
-        TreeMap<Integer, TreeMap<Integer, PriorityQueue<Integer>>> map = new TreeMap<>();
         Queue<Tuple> queue = new LinkedList<>();
         queue.offer(new Tuple(root, 0, 0));
+        TreeMap<Integer, TreeMap<Integer, PriorityQueue<Integer>>> map = new TreeMap<>();
         while (!queue.isEmpty()) {
             Tuple tuple = queue.poll();
             TreeNode node = tuple.node;
