@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/IshankAggarwal09/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/IshankAggarwal09/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/IshankAggarwal09/DSA/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/IshankAggarwal09/DSA/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/IshankAggarwal09/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/IshankAggarwal09/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/IshankAggarwal09/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/IshankAggarwal09/DSA/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/IshankAggarwal09/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/IshankAggarwal09/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/IshankAggarwal09/DSA/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/IshankAggarwal09/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3934-smallest-unique-subarray](https://github.com/IshankAggarwal09/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -818,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/IshankAggarwal09/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/IshankAggarwal09/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/IshankAggarwal09/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3934-smallest-unique-subarray](https://github.com/IshankAggarwal09/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Tree
 |  |
 | ------- |
@@ -1476,6 +1480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/IshankAggarwal09/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/IshankAggarwal09/DSA/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/IshankAggarwal09/DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3934-smallest-unique-subarray](https://github.com/IshankAggarwal09/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -1527,4 +1532,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/IshankAggarwal09/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/IshankAggarwal09/DSA/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
