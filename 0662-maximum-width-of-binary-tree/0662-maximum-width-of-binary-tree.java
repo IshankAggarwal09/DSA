@@ -41,7 +41,7 @@ class Solution {
                 if (i == 0) {
                     first = currentIndex;
                 }
-                if (i == size - 1) {
+                if (i == size-1) {
                     last = currentIndex;
                 }
                 if (node.left != null) {
@@ -51,7 +51,7 @@ class Solution {
                     queue.offer(new Pair(node.right, 2*currentIndex+2));
                 }
             }
-            ans = Math.max(ans, last-first+1);
+            ans = Math.max(ans, last - first + 1);
         }
         return ans;
     }
