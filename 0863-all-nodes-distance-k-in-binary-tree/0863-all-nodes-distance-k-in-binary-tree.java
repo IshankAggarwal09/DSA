@@ -8,29 +8,29 @@
  * }
  */
 class Solution {
-    public void markParents(TreeNode root, Map<TreeNode, TreeNode> parentTrack) {
+    public void markParent(TreeNode root, Map<TreeNode, TreeNode> parentTrack) {
         Queue<TreeNode> queue = new LinkedList<>();
         queue.offer(root);
         while (!queue.isEmpty()) {
-            TreeNode current = queue.poll();
-            if (current.left != null) {
-                parentTrack.put(current.left, current);
-                queue.offer(current.left);
+            TreeNode node = queue.poll();
+            if (node.left != null) {
+                parentTrack.put(node.left, node);
+                queue.offer(node.left);
             }
-            if (current.right != null) {
-                parentTrack.put(current.right, current);
-                queue.offer(current.right);
+            if (node.right != null) {
+                parentTrack.put(node.right, node);
+                queue.offer(node.right);
             }
         }
     }
     public List<Integer> distanceK(TreeNode root, TreeNode target, int k) {
         Map<TreeNode, TreeNode> parentTrack = new HashMap<>();
-        markParents(root, parentTrack);
+        markParent(root, parentTrack);
         Map<TreeNode, Boolean> visited = new HashMap<>();
         Queue<TreeNode> queue = new LinkedList<>();
         queue.offer(target);
-        visited.put(target, true);
         int distance = 0;
+        visited.put(target, true);
         while (!queue.isEmpty()) {
             int size = queue.size();
             if (distance == k) {
@@ -38,18 +38,18 @@ class Solution {
             }
             distance++;
             for (int i=0; i<size; i++) {
-                TreeNode current = queue.poll();
-                if (current.left != null && visited.get(current.left) == null) {
-                    queue.offer(current.left);
-                    visited.put(current.left, true);
+                TreeNode node = queue.poll();
+                if (node.left != null && visited.get(node.left) == null) {
+                    visited.put(node.left, true);
+                    queue.offer(node.left);
                 }
-                if (current.right != null && visited.get(current.right) == null) {
-                    queue.offer(current.right);
-                    visited.put(current.right, true);
+                if (node.right != null && visited.get(node.right) == null) {
+                    visited.put(node.right, true);
+                    queue.offer(node.right);
                 }
-                if (parentTrack.get(current) != null && visited.get(parentTrack.get(current)) == null) {
-                    queue.offer(parentTrack.get(current));
-                    visited.put(parentTrack.get(current), true);
+                if (parentTrack.get(node) != null && visited.get(parentTrack.get(node)) == null) {
+                    visited.put(parentTrack.get(node), true);
+                    queue.offer(parentTrack.get(node));
                 }
             }
         }
