@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    public TreeNode markParent(TreeNode root, Map<TreeNode, TreeNode> parentTrack, int start) {
+    public TreeNode markParents(TreeNode root, int start, Map<TreeNode, TreeNode> parentTrack) {
         Queue<TreeNode> queue = new LinkedList<>();
         queue.offer(root);
         TreeNode temp = null;
@@ -24,24 +24,24 @@ class Solution {
                 temp = node;
             }
             if (node.left != null) {
-                parentTrack.put(node.left, node);
                 queue.offer(node.left);
+                parentTrack.put(node.left, node);
             }
             if (node.right != null) {
-                parentTrack.put(node.right, node);
                 queue.offer(node.right);
+                parentTrack.put(node.right, node);
             }
         }
         return temp;
     }
     public int amountOfTime(TreeNode root, int start) {
         Map<TreeNode, TreeNode> parentTrack = new HashMap<>();
-        TreeNode target = markParent(root, parentTrack, start);
+        TreeNode target = markParents(root, start, parentTrack);
+        int time = 0;
         Queue<TreeNode> queue = new LinkedList<>();
         Map<TreeNode, Boolean> visited = new HashMap<>();
         queue.offer(target);
         visited.put(target, true);
-        int time = 0;
         while (!queue.isEmpty()) {
             int size = queue.size();
             boolean infected = false;
